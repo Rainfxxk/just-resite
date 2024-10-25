@@ -1,0 +1,416 @@
+{
+  "words": [
+    {
+      "word": "beam",
+      "phonetic": "[biːm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["(光线的)束", "柱", "(横)梁", "桁条"]
+        },
+        {
+          "part_of_speech": "v",
+          "definitions": ["微笑", "发光", "照射"]
+        }
+      ]
+    },
+    {
+      "word": "become",
+      "phonetic": "[bɪˈkʌm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["成为", "变得", "适宜", "同......相称", "使(人)显得漂亮", "使好看"]
+        }
+      ]
+    },
+    {
+      "word": "deprive",
+      "phonetic": "[dɪˈpraɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["(of)剥夺", "使丧失"]
+        }
+      ]
+    },
+    {
+      "word": "derive",
+      "phonetic": "[dɪˈraɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["取得", "得到", "追溯······的起源(或来由)"]
+        }
+      ]
+    },
+    {
+      "word": "describe",
+      "phonetic": "[dɪˈskraɪb]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["形容", "描述"]
+        }
+      ]
+    },
+    {
+      "word": "description",
+      "phonetic": "[dɪˈskrɪpʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["描述", "形容", "种类", "类型"]
+        }
+      ]
+    },
+    {
+      "word": "deserve",
+      "phonetic": "[dɪˈzɜːrv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["值得", "应得"]
+        }
+      ]
+    },
+    {
+      "word": "design",
+      "phonetic": "[dɪˈzaɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["设计", "绘制"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["设计", "图样"]
+        }
+      ]
+    },
+    {
+      "word": "designate",
+      "phonetic": "[ˈdezɪɡneɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["指明", "标明", "指定", "指派"]
+        }
+      ]
+    },
+    {
+      "word": "desirable",
+      "phonetic": "[dɪˈzaɪrəbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["称心的", "合意的"]
+        }
+      ]
+    },
+    {
+      "word": "desire",
+      "phonetic": "[dɪˈzaɪər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["希望", "渴望"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["愿望", "欲望", "要求"]
+        }
+      ]
+    },
+    {
+      "word": "flaw",
+      "phonetic": "[flɔː]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["裂缝", "缺陷", "缺点"]
+        }
+      ]
+    },
+    {
+      "word": "flexible",
+      "phonetic": "[ˈfleksəbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["柔韧的", "易弯曲的", "可变通的"]
+        }
+      ]
+    },
+    {
+      "word": "fling",
+      "phonetic": "[flɪŋ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["(用力)扔", "掷", "抛", "丢"]
+        }
+      ]
+    },
+    {
+      "word": "flourish",
+      "phonetic": "[ˈflʌrɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["茂盛", "繁荣", "活跃", "健康"]
+        }
+      ]
+    },
+    {
+      "word": "flourish",
+      "phonetic": "[ˈflʌrɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["流畅的曲线", "炫耀"]
+        },
+        {
+          "part_of_speech": "v",
+          "definitions": ["茂盛", "繁荣", "兴旺", "挥舞", "舞动", "炫耀"]
+        }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic": "[ɡroʊ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["成为", "增长", "生长", "成长", "种植", "栽种"]
+        }
+      ]
+    },
+    {
+      "word": "grown-up",
+      "phonetic": "[ˈɡroʊn ʌp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["成熟的", "成人的"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["成年人"]
+        }
+      ]
+    },
+    {
+      "word": "growth",
+      "phonetic": "[ɡroʊθ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["生长", "增长", "发展"]
+        }
+      ]
+    },
+    {
+      "word": "hinder",
+      "phonetic": "[ˈhɪndər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["妨碍", "阻止"]
+        },
+        {
+          "part_of_speech": "adj",
+          "definitions": ["后面的", "后部的"]
+        }
+      ]
+    },
+    {
+      "word": "hint",
+      "phonetic": "[hɪnt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["暗示", "建议", "线索", "细微的迹象"]
+        },
+        {
+          "part_of_speech": "v",
+          "definitions": ["(to)暗示", "示意"]
+        }
+      ]
+    },
+    {
+      "word": "hitherto",
+      "phonetic": "[ˌhɪðərˈtuː]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv",
+          "definitions": ["到目前为止", "迄今"]
+        }
+      ]
+    },
+    {
+      "word": "impact",
+      "phonetic": "[ˈɪmpækt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["冲击", "撞击", "影响", "作用"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["压紧", "对某事物有影响"]
+        }
+      ]
+    },
+    {
+      "word": "impair",
+      "phonetic": "[ɪmˈpeər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["削弱", "减少", "损害", "损伤"]
+        }
+      ]
+    },
+    {
+      "word": "impart",
+      "phonetic": "[ɪmˈpɑːrt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["给予", "传授", "告知", "透露"]
+        }
+      ]
+    },
+    {
+      "word": "implement",
+      "phonetic": "[ˈɪmplɪment]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["实施", "执行", "贯彻"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["工具", "器具", "用具"]
+        }
+      ]
+    },
+    {
+      "word": "implication",
+      "phonetic": "[ˌɪmplɪˈkeɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["含意", "暗示"]
+        }
+      ]
+    },
+    {
+      "word": "implicit",
+      "phonetic": "[ɪmˈplɪsɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["不言明的", "含蓄的", "无疑问的", "绝对的"]
+        }
+      ]
+    },
+    {
+      "word": "imply",
+      "phonetic": "[ɪmˈplaɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["意指", "意味着", "暗示"]
+        }
+      ]
+    },
+    {
+      "word": "import",
+      "phonetic": "[ˈɪmpoːrt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["进口", "输入"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["进口", "输入", "(pl.)进口商品", "进口物资", "(of)要旨", "含意", "意思"]
+        }
+      ]
+    },
+    {
+      "word": "importance",
+      "phonetic": "[ˈɪmpɔːrtns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["重要(性)", "重大"]
+        }
+      ]
+    },
+    {
+      "word": "important",
+      "phonetic": "[ɪmˈpɔːrtnt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["重要的", "重大的", "有权力的"]
+        }
+      ]
+    },
+    {
+      "word": "impose",
+      "phonetic": "[ɪmˈpoʊz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["(on, upon)征(税)", "加(负担、惩罚等)于", "把......强加于", "利用", "占便宜"]
+        }
+      ]
+    },
+    {
+      "word": "impress",
+      "phonetic": "[ɪmˈpres]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["(on)印", "盖印", "留下印象", "使钦佩", "铭记"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["压痕", "印记"]
+        }
+      ]
+    },
+    {
+      "word": "impression",
+      "phonetic": "[ɪmˈpreʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["印象", "感想", "盖印", "压痕", "(书籍)一次印刷", "印数"]
+        }
+      ]
+    },
+    {
+      "word": "impressive",
+      "phonetic": "[ɪmˈpresɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["给人深刻印象的", "感人的"]
+        }
+      ]
+    },
+    {
+      "word": "improve",
+      "phonetic": "[ɪmˈpruːv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["使......改善", "变得更好"]
+        }
+      ]
+    },

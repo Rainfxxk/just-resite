@@ -1,0 +1,995 @@
+{
+  "words": [
+    {
+      "word": "glamour",
+      "phonetic": "['glaemo(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["迷人的美（通常指性感的）", "魅力，吸引力"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["迷惑，迷住"]
+        }
+      ]
+    },
+    {
+      "word": "generate",
+      "phonetic": "['d3enarel]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["产生，发生（电、热、光、力、摩擦力等）", "引起，导致"]
+        }
+      ]
+    },
+    {
+      "word": "generation",
+      "phonetic": "[d3ena'refn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["产生，发生", "一代（人）,同时代人", "同一时期的产品"]
+        }
+      ]
+    },
+    {
+      "word": "generator",
+      "phonetic": "[d3enareita(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["发电机", "发生器"]
+        }
+      ]
+    },
+    {
+      "word": "generous",
+      "phonetic": "['d3enors]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["丰富的", "慷慨的，大方的"]
+        }
+      ]
+    },
+    {
+      "word": "genius",
+      "phonetic": "['d3i:nios]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["天才，天赋"]
+        }
+      ]
+    },
+    {
+      "word": "gift",
+      "phonetic": "[gift]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["礼品，赠品", "天赋，才能"]
+        }
+      ]
+    },
+    {
+      "word": "genre",
+      "phonetic": "[3onra]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["（文学、艺术、电影或音乐的）体裁", "类型", "风格"]
+        }
+      ]
+    },
+    {
+      "word": "giant",
+      "phonetic": "['d3alant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["巨人"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["巨大的"]
+        }
+      ]
+    },
+    {
+      "word": "gigantic",
+      "phonetic": "[d3aigaentik]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["巨大的，庞大的"]
+        }
+      ]
+    },
+    {
+      "word": "give",
+      "phonetic": "[giv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["给，提供", "交给，托付", "献出"]
+        }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic": "[haepon]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["（尤指偶然）发生，出现", "（作为结果）出现，发生", "碰巧，恰好"]
+        }
+      ]
+    },
+    {
+      "word": "harm",
+      "phonetic": "[ha:m]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["伤害，损害，危害"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["伤害，损害，危害"]
+        }
+      ]
+    },
+    {
+      "word": "harmony",
+      "phonetic": "[ha:moni]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["协调，和谐", "融洽"]
+        }
+      ]
+    },
+    {
+      "word": "harsh",
+      "phonetic": "[ha:f]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "粗糙而使人不舒服的",
+            "严酷的，无情的",
+            "严厉的，苛刻的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ignorance",
+      "phonetic": "[ignarons]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "无知，愚昧",
+            "不知道",
+            "对.......无所知"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ignorant",
+      "phonetic": "[ignarant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "无知的，愚昧的",
+            "不知道的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ignore",
+      "phonetic": "[igno:(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "不顾，不理，忽视"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ill",
+      "phonetic": "[il]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "有病的",
+            "坏的，不利的",
+            "恶意的"
+          ]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": [
+            "不善良地，邪恶地"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "illness",
+      "phonetic": "['lnas]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "病，疾病"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "illusion",
+      "phonetic": "[r1u:3n]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "幻觉，错觉",
+            "幻想中的事物"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "illustrate",
+      "phonetic": "['lastreit]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "（用图或例子）说明，阐明",
+            "加插图"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "illustration",
+      "phonetic": "[ilastretfn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "说明，例证",
+            "插图，图解"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "image",
+      "phonetic": "[1mId3]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "形象",
+            "肖像，影像，映像"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "反映"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imagine",
+      "phonetic": "['maed3m]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "想象，设想，料想",
+            "猜想"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imaginary",
+      "phonetic": "[maed3mori]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "想象的，虚构的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imagination",
+      "phonetic": "[1maed3(nefn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "想象，空想，想象力"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imaginative",
+      "phonetic": "[maed3inauv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "富有想象力的，爱想象的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imitate",
+      "phonetic": "[imitefn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "模仿，仿效",
+            "仿造，伪造"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imitation",
+      "phonetic": "[imiteiton]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "模仿",
+            "仿效",
+            "仿制，仿制品"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lead",
+      "phonetic": "[li:d]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "领导，引导",
+            "领先，占首位",
+            "通向",
+            "导致，引起"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "带领，引导"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leadership",
+      "phonetic": "[li:dofip]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "领导，领导层"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leading",
+      "phonetic": "[li:dn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "领导的，指引的",
+            "第一位的",
+            "最主要的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legal",
+      "phonetic": "[li:gl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "法律的，法定的",
+            "合法的，正当的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legislation",
+      "phonetic": "[led3isletfn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "立法"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legitimate",
+      "phonetic": "[lrd3ttmat]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "合法的",
+            "合理的",
+            "正统的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leisure",
+      "phonetic": "[le3a(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "空闲，闲暇",
+            "悠闲，安逸"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "level",
+      "phonetic": "[levl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "数量",
+            "程度",
+            "浓度",
+            "水平",
+            "层次",
+            "级别"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "等高的",
+            "地位相同的",
+            "价值相等的"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "（尤指用枪）瞄准，对准"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lever",
+      "phonetic": "[li:va(r);levar]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "杠杆",
+            "控制（操纵）杆，把手",
+            "工具",
+            "手段"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "用杠杆撬",
+            "操纵，控制"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "levy",
+      "phonetic": "['levi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "征收，征税"
+          ]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "征收，征集，征用"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manage",
+      "phonetic": "[maenId3]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "经营，管理，处理",
+            "设法对付",
+            "操纵，运用"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "management",
+      "phonetic": "[maenid3mont]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "经营，管理",
+            "管理部门"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mandate",
+      "phonetic": "[maendett]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（政府或组织等经选举而获得的）权力，授权",
+            "（官方的）命令，指令",
+            "（政府的）任期"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "（常用被动态）强制执行，委托办理",
+            "授权"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manifest",
+      "phonetic": "[maenifest]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "显然的，明了的"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "显示，表明",
+            "表露，显露",
+            "证明，证实"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manipulate",
+      "phonetic": "[maintpjulent]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "（熟练地）操作",
+            "（巧妙地）处理",
+            "（尤指用权势或不正当手段）操纵，控制"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manner",
+      "phonetic": "[maena(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "方式，方法",
+            "（pl.）举止，风度",
+            "（pl.）礼貌，规矩"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "margin",
+      "phonetic": "[ma:d3in]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "页边空白",
+            "边缘",
+            "余地，差额"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "marginal",
+      "phonetic": "[ma:d3in]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "记在页边的，边缘的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mass",
+      "phonetic": "[maes]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "大量，众多",
+            "团，块",
+            "（pl.）群众，民众",
+            "质量"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "massive",
+      "phonetic": "[maesiv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "大而重的，厚实的，粗大的",
+            "大规模的，大量的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "massacre",
+      "phonetic": "[maesako(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "残杀，大屠杀"
+          ]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "残杀，集体屠杀"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occupation",
+      "phonetic": "[okju'peifn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "占领，占据，占用",
+            "职业，工作"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occupy",
+      "phonetic": "[okjupat]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "占用，占有",
+            "使忙于，使从事",
+            "占领，侵占",
+            "担任（职务）,居（某种地位）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occur",
+      "phonetic": "[a'ka:(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "发生，存在，出现",
+            "被发现，被想到"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occurrence",
+      "phonetic": "[okArans]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "事件，事故，发生的事情",
+            "发生，出现 （过程）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offend",
+      "phonetic": "[afend]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "冒犯，使生气",
+            "违犯，违反",
+            "使厌恶，使不舒服"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "[nfo(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "提供，提出",
+            "呈现，出现"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "提供",
+            "出价"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offset",
+      "phonetic": "['nfset]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "补偿，抵消"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "补偿，抵消"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offspring",
+      "phonetic": "['ofsprm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "子孙，后代",
+            "结果，产物"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paragraph",
+      "phonetic": "[paerogra:f]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "段，节",
+            "小新闻，短评"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paralyse/-yze",
+      "phonetic": "[paeralaiz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "使瘫痪，使麻痹",
+            "使丧失作用"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parallel",
+      "phonetic": "[paeralel]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "平行的",
+            "类似的，相同的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "平行线，平行面",
+            "相似物，相似处",
+            "显示相似处的比较，比拟",
+            "纬线，平行圈"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "phonetic": "[pa:t]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "部分",
+            "片段",
+            "一点",
+            "成员",
+            "成分",
+            "器官",
+            "部位",
+            "组成部分"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "离开，分别"
+          ]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": [
+            "部分地"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "partial",
+      "phonetic": "[pa:fl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "部分的，不完全的",
+            "偏向一方的，偏袒的，偏爱的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "participant",
+      "phonetic": "[pa'tisipont]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "参加者，参与者"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "participate",
+      "phonetic": "[pa:tisipett]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "(in)参与，参加",
+            "(in,)"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "particle",
+      "phonetic": "[pa:tik]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "粒子，微粒",
+            "极少量"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "particular",
+      "phonetic": "[patikjala(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "特殊的，特别的",
+            "特定的，特指的",
+            "细致的",
+            "苛求的，挑剔的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "(pl.)详情，细目"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "partly",
+      "phonetic": "[pa:tli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": [
+            "部分地，不完全地"
+          ]
+        }
+      ]
+    }
+  ]
+}

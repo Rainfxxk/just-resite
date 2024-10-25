@@ -1,0 +1,891 @@
+{
+  "words": [
+    {
+      "word": "tow",
+      "phonetic": "[tau]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["拖，拉，牵引"]
+        }
+      ]
+    },
+    {
+      "word": "toward(s)",
+      "phonetic": "[tawo:d(z)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "prep.",
+          "definitions": [
+            "(表示运动方向) 将近",
+            "(表示时间) 将近",
+            "(表示关系) 对于",
+            "表示目的) 为了"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "take",
+      "phonetic": "[teik]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "(took, taken) 拿取，携带",
+            "带去，引领",
+            "吃，服用",
+            "记录，拍摄",
+            "取得，接受",
+            "需要，花费",
+            "捕获，抓住",
+            "认为，当做"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "(一次) 录音",
+            "(一次) 拍摄",
+            "看法，意见",
+            "收入额"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "talent",
+      "phonetic": "[taelant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["才能，天资，天才"]
+        }
+      ]
+    },
+    {
+      "word": "target",
+      "phonetic": "[ta:grt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["目标，对象"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["把......作为目标"]
+        }
+      ]
+    },
+    {
+      "word": "taste",
+      "phonetic": "[teist]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["品尝，辨味", "体验，感到"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["滋味，味觉", "鉴赏力"]
+        }
+      ]
+    },
+    {
+      "word": "technical",
+      "phonetic": "[teknikl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["技术的，工艺的"]
+        }
+      ]
+    },
+    {
+      "word": "technician",
+      "phonetic": "[tekntfn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["技术员，技师，技工"]
+        }
+      ]
+    },
+    {
+      "word": "technique",
+      "phonetic": "[tekni:k]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["技术，技能"]
+        }
+      ]
+    },
+    {
+      "word": "technology",
+      "phonetic": "/teknolad3i/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["科技，工艺"]
+        }
+      ]
+    },
+    {
+      "word": "teenager",
+      "phonetic": "[ti:netd3a(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["青少年"]
+        }
+      ]
+    },
+    {
+      "word": "temper",
+      "phonetic": "[tempo(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["心情，脾气", "硬度，韧度"]
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "phonetic": "[temprotfo(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["温度，体温"]
+        }
+      ]
+    },
+    {
+      "word": "temporal",
+      "phonetic": "[temporal]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["世间的，世俗的，现世的", "时间的"]
+        }
+      ]
+    },
+    {
+      "word": "temporary",
+      "phonetic": "['temprəri]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["暂时的，临时的"]
+        }
+      ]
+    },
+    {
+      "word": "tempt",
+      "phonetic": "[tempt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["引诱，诱惑", "吸引，使感兴趣"]
+        }
+      ]
+    },
+    {
+      "word": "temptation",
+      "phonetic": "[tempteʃən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["诱惑，引诱"]
+        }
+      ]
+    },
+    {
+      "word": "tend",
+      "phonetic": "[tend]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["趋向，倾向", "易于，往往会", "照料，看护"]
+        }
+      ]
+    },
+    {
+      "word": "tendency",
+      "phonetic": "['tendənsi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["趋势，趋向"]
+        }
+      ]
+    },
+    {
+      "word": "tentative",
+      "phonetic": "['tentətɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["试验性的，试探性的", "暂时的，(凭)推测的"]
+        }
+      ]
+    },
+    {
+      "word": "term",
+      "phonetic": "[tɜːrm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["学期", "任期，期限", "条件，条款", "术语，专有名词", "关系，地位"]
+        }
+      ]
+    },
+    {
+      "word": "terminal",
+      "phonetic": "['tɜːmɪnl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["终点站", "终端，终端机", "(电路的)端子，线接头"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["患绝症的，晚期的", "不治的，致命的", "不可救药的", "无可挽回的", "末端的，末梢的"]
+        }
+      ]
+    },
+    {
+      "word": "terminate",
+      "phonetic": "['tɜːmɪneɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["停止，结束，使终止"]
+        }
+      ]
+    },
+    {
+      "word": "testify",
+      "phonetic": "[ˈtestɪfaɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["证实，作证，证明", "(to)表明，说明"]
+        }
+      ]
+    },
+    {
+      "word": "trace",
+      "phonetic": "[treɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["痕迹，踪迹", "微量，少许"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["追踪，跟踪", "查出，找到", "描绘，勾画"]
+        }
+      ]
+    },
+    {
+      "word": "track",
+      "phonetic": "[træk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["足迹，踪迹", "小道，小径"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["跟踪，追踪"]
+        }
+      ]
+    },
+    {
+      "word": "tradition",
+      "phonetic": "[trəˈdɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["传统，惯例"]
+        }
+      ]
+    },
+    {
+      "word": "ultimate",
+      "phonetic": "[ˈʌltɪmət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["最后的，最终的", "极点的，终极的", "基本的，根本的", "最大的，最高的"]
+        }
+      ]
+    },
+    {
+      "word": "underestimate",
+      "phonetic": "[ˌʌndərˈestɪmət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["低估"]
+        }
+      ]
+    },
+    {
+      "word": "undergo",
+      "phonetic": "[ˌʌndərˈɡoʊ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["经历，遭受，忍受"]
+        }
+      ]
+    },
+    {
+      "word": "underlie",
+      "phonetic": "[ˌʌndərˈlaɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["位于......之下", "引起，构成......的基础(或起因)"]
+        }
+      ]
+    },
+    {
+      "word": "underlying",
+      "phonetic": "[ˌʌndərˈlaɪɪŋ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["在下面的", "根本的", "潜在的"]
+        }
+      ]
+    },
+    {
+      "word": "underline",
+      "phonetic": "[ˌʌndərˈlaɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["强调"]
+        }
+      ]
+    },
+    {
+      "word": "underline",
+      "phonetic": "[ˌʌndərˈlaɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["在......下划线", "强调"]
+        }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "[ˌʌndərˈstænd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["懂，理解", "获悉，听说", "揣测，认为"]
+        }
+      ]
+    },
+    {
+      "word": "understanding",
+      "phonetic": "[ˌʌndərˈstændɪŋ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["理解，理解力，谅解"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["了解的，通情达理的"]
+        }
+      ]
+    },
+    {
+      "word": "undertake",
+      "phonetic": "[ˌʌndərˈteɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["承担，接受", "着手做，从事", "同意，保证", "负责"]
+        }
+      ]
+    },
+    {
+      "word": "uneasy",
+      "phonetic": "[ʌnˈiːzi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["心神不宁的，不安宁的", "令人不安的，不自在的"]
+        }
+      ]
+    },
+    {
+      "word": "unemployment",
+      "phonetic": "[ˌʌnɪmˈplɔɪmənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["失业，失业人数"]
+        }
+      ]
+    },
+    {
+      "word": "unexpected",
+      "phonetic": "[ˌʌnkˈspektɪd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["想不到的，意外的"]
+        }
+      ]
+    },
+    {
+      "word": "unify",
+      "phonetic": "[ˈjuːnɪfaɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["使成一体，统一", "使相同，使一致"]
+        }
+      ]
+    },
+    {
+      "word": "union",
+      "phonetic": "[ˈjuːniən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["一致，融洽", "联合，合并", "协会，工会，同盟"]
+        }
+      ]
+    },
+    {
+      "word": "unique",
+      "phonetic": "[juˈniːk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["唯一的，独一无二的"]
+        }
+      ]
+    },
+    {
+      "word": "universal",
+      "phonetic": "[ˌjuːnɪˈvɜːrsl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["普遍的，全体的，通用的", "宇宙的，世界的"]
+        }
+      ]
+    },
+    {
+      "word": "universe",
+      "phonetic": "[ˈjuːnɪvɜːrs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["宇宙，万物"]
+        }
+      ]
+    },
+    {
+      "word": "unlike",
+      "phonetic": "[ʌnˈlaɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["不同的，不相似的"]
+        },
+        {
+          "part_of_speech": "prep.",
+          "definitions": ["不像，和......不同"]
+        }
+      ]
+    },
+    {
+      "word": "unlikely",
+      "phonetic": "[ʌnˈlaɪkli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["未必的，靠不住的，不像的"]
+        }
+      ]
+    },
+    {
+      "word": "unusual",
+      "phonetic": "[ʌnˈjuːʒuəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["不平常的，与众不同的"]
+        }
+      ]
+    },
+    {
+      "word": "vague",
+      "phonetic": "[veɪɡ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["含(模)糊的，不明确的"]
+        }
+      ]
+    },
+    {
+      "word": "vain",
+      "phonetic": "[veɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["徒劳的，无效的", "自负的，爱虚荣的"]
+        }
+      ]
+    },
+    {
+      "word": "valid",
+      "phonetic": "[ˈvælɪd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["合理的，有效的，有根据的", "具有法律效力的"]
+        }
+      ]
+    },
+    {
+      "word": "valuable",
+      "phonetic": "[ˈvæljuəbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["贵重的，有价值的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(pl.)贵重物品，财宝"]
+        }
+      ]
+    },
+    {
+      "word": "wage",
+      "phonetic": "[weɪdʒ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["工资，报酬"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["进行，从事，开展"]
+        }
+      ]
+    },
+    {
+      "word": "wander",
+      "phonetic": "[ˈwɒndə]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vi.",
+          "definitions": ["漫步，徘徊", "迷路", "走神，开小差", "(神情)恍惚", "离题"]
+        }
+      ]
+    },
+    {
+      "word": "vanish",
+      "phonetic": "[vænɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vi.",
+          "definitions": ["突然消失，逐渐消散"]
+        }
+      ]
+    },
+    {
+      "word": "variable",
+      "phonetic": "[ˈveəriəbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["易变的，可变的，变量的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["可变因素；变数"]
+        }
+      ]
+    },
+    {
+      "word": "weak",
+      "phonetic": "[wiːk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["虚弱的，软弱的", "差的，不够标准的", "淡的，稀的"]
+        }
+      ]
+    },
+    {
+      "word": "variance",
+      "phonetic": "[ˈveəriəns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["变化幅度，差额"]
+        }
+      ]
+    },
+    {
+      "word": "variation",
+      "phonetic": "[ˌveəriˈeɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["变化，变动；变种，变异"]
+        }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "[weə]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["穿，戴", "留，蓄（发、须等）"]
+        }
+      ]
+    },
+    {
+      "word": "variety",
+      "phonetic": "[vəˈraɪəti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["种种，多种多样", "种类，品种"]
+        }
+      ]
+    },
+    {
+      "word": "weary",
+      "phonetic": "[ˈwɪəri]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["使厌烦，使疲劳"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["疲劳的，疲倦的", "使人疲劳的"]
+        }
+      ]
+    },
+    {
+      "word": "various",
+      "phonetic": "[ˈveəriəs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["各种各样的，不同的"]
+        }
+      ]
+    },
+    {
+      "word": "weigh",
+      "phonetic": "[weɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["称……重量，称", "(对看法或决定)有影响，有分量", "掂量，权衡，比较"]
+        }
+      ]
+    },
+    {
+      "word": "vary",
+      "phonetic": "[ˈveəri]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["改变，变化"]
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "phonetic": "[weɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["重量，分量", "重（的特性）", "重要性，严重性或影响力（的程度）"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["在（某物）上加重量，使某物重些", "给某人加负担，使某人负重"]
+        }
+      ]
+    },
+    {
+      "word": "vast",
+      "phonetic": "[vɑːst]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["巨大的，辽阔的", "大量的，巨额的"]
+        }
+      ]
+    },
+    {
+      "word": "weird",
+      "phonetic": "[wɪərd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["怪异的，超自然的", "不可思议的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["命运", "之字形", "曲折"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["呈之字形移动", "曲折行进"]
+        }
+      ]
+    },
+    {
+      "word": "welfare",
+      "phonetic": "[ˈwelfer]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["福利，幸福，好处"]
+        }
+      ]
+    },
+    {
+      "word": "zone",
+      "phonetic": "[zoʊn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["地带，分布带", "地区，区域"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["分区，划分地带"]
+        }
+      ]
+    },
+    {
+      "word": "whirl",
+      "phonetic": "[wɜːrl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["旋转，急转", "(头)变混乱"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["眩晕，混乱"]
+        }
+      ]
+    },
+    {
+      "word": "zoom",
+      "phonetic": "[zuːm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["飞驰，嗡嗡声"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["飞驰，飞快地掠过", "(价格等)急剧上涨，突然扩大"]
+        }
+      ]
+    },
+    {
+      "word": "whisper",
+      "phonetic": "[ˈwɪspər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["低语，耳语，嘀咕"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["低语，耳语，私语", "传闻，谣言"]
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "phonetic": "[kiː]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["钥匙", "(to)答案，解答", "关键", "键，琴键"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["主要的，关键的"]
+        }
+      ]
+    },
+    {
+      "word": "yield",
+      "phonetic": "[jiːld]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["生产，产生，带来", "放弃，屈服", "(to)使适应(用)", "使和谐"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["产量，收获"]
+        }
+      ]
+    },
+    {
+      "word": "knit",
+      "phonetic": "[nɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["编织，编结", "针织，机织", "(使)愈合", "接合", "(使)紧密结合"]
+        }
+      ]
+    },
+    {
+      "word": "youth",
+      "phonetic": "[juːθ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["青春，青春期", "年轻人"]
+        }
+      ]
+    },
+    {
+      "word": "zigzag",
+      "phonetic": "[ˈzɪɡzæɡ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["之字形，锯齿形"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["呈之字形移动", "曲折行进"]
+        }
+      ]
+    }
+  ]
+}

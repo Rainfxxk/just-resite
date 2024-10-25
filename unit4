@@ -1,0 +1,750 @@
+{
+  "words": [
+    {
+      "word": "mediate",
+      "phonetic": "[miːdieɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["调停，调解，斡旋", "为解决分歧找到(方法)", "促成(协议)", "(常用被动态)影响......的发生，使......可能发生"]
+        }
+      ]
+    },
+    {
+      "word": "meditation",
+      "phonetic": "[ˌmedɪˈteɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["沉思，冥想", "深思熟虑，苦思冥想"]
+        }
+      ]
+    },
+    {
+      "word": "medium",
+      "phonetic": "[ˈmiːdiəm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(pl.media,mediums)中间，中庸", "媒介(物),介质,媒体", "传导体", "手段,工具,方法"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["中等的，中号的"]
+        }
+      ]
+    },
+    {
+      "word": "media",
+      "phonetic": "[ˈmiːdia]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["[the~]媒体，传媒"]
+        }
+      ]
+    },
+    {
+      "word": "elaborate",
+      "phonetic": "[ɪˈlæbərət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["精心计划(或制作)的，详尽的，复杂的"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["精心制作", "(on,upon)详述(计划、说明)"]
+        }
+      ]
+    },
+    {
+      "word": "elegant",
+      "phonetic": "[ˈelɪɡənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["优雅的，优美的，精致的", "简练的，简洁的"]
+        }
+      ]
+    },
+    {
+      "word": "element",
+      "phonetic": "[ˈelɪmənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["元素，要素", "组成部分，基本部分", "有点，有些，少量", "(学科的)基本原理，基础，纲要", "(尤指动物的)自然环境，适宜的环境"]
+        }
+      ]
+    },
+    {
+      "word": "elementary",
+      "phonetic": "[ˌelɪˈmentri]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["初等的，基本的", "简单的，容易的"]
+        }
+      ]
+    },
+    {
+      "word": "eliminate",
+      "phonetic": "[ɪˈlɪmɪneɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["排除，消除", "(比赛中)淘汰", "消灭(尤指敌人或对手)"]
+        }
+      ]
+    },
+    {
+      "word": "abolish",
+      "phonetic": "[əˈbɒlɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["废止，废除(法律、制度、习俗等)"]
+        }
+      ]
+    },
+    {
+      "word": "absence",
+      "phonetic": "[ˈæbsəns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(from)缺勤，缺席，不在场", "缺乏，没有"]
+        }
+      ]
+    },
+    {
+      "word": "absent",
+      "phonetic": "[ˈæbsənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["缺席的，不在场的"]
+        }
+      ]
+    },
+    {
+      "word": "absent",
+      "phonetic": "[ˈæbsənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["不在场的，缺席的", "漫不经心的，茫然的"]
+        }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "[əˈbrɔːd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["到国外，在国外", "广为流传"]
+        }
+      ]
+    },
+    {
+      "word": "absolute",
+      "phonetic": "[ˈæbsəluːt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["纯粹的，完全的", "十足的，绝对的", "不受任何限制的", "无疑的，肯定的，确实的"]
+        }
+      ]
+    },
+    {
+      "word": "absorb",
+      "phonetic": "[əbˈsɔːb]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["吸引……的注意", "占去（时间、注意力等）", "承受，忍受", "吸进，吸收（液体、气体等）"]
+        }
+      ]
+    },
+    {
+      "word": "abstract",
+      "phonetic": "[ˈæbstrækt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["抽象的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["（书、文、案情等的）摘要，梗概"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["提取，抽取"]
+        }
+      ]
+    },
+    {
+      "word": "ban",
+      "phonetic": "[bæn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["（官方明令）禁止，取缔"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["禁止，禁令"]
+        }
+      ]
+    },
+    {
+      "word": "bar",
+      "phonetic": "[bɑːr]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["条，块，杆，棒", "酒吧，酒柜"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["闩（门、窗等）", "禁闭，封锁，禁止"]
+        }
+      ]
+    },
+    {
+      "word": "bare",
+      "phonetic": "[beə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["赤裸的，光秃的", "基本的，微小的", "仅仅的，光是的"]
+        }
+      ]
+    },
+    {
+      "word": "barely",
+      "phonetic": "[ˈbeəli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["赤裸裸地，无遮蔽地", "空空地", "仅仅，勉强", "几乎不"]
+        }
+      ]
+    },
+    {
+      "word": "bargain",
+      "phonetic": "[ˈbɑːɡɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["廉价货", "交易", "契约，合同"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(for/over/about)议价（讨价还价）", "成交"]
+        }
+      ]
+    },
+    {
+      "word": "capable",
+      "phonetic": "[ˈkeɪpəbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["有能力的，能胜任的"]
+        }
+      ]
+    },
+    {
+      "word": "capacity",
+      "phonetic": "[kəˈpæsəti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["才能，能力", "生产力", "接受能力", "容量，容积"]
+        }
+      ]
+    },
+    {
+      "word": "capital",
+      "phonetic": "[ˈkæpɪtl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["首都，首府", "大写字母", "资本，资金"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["首位的，最重要的", "基本的", "应处死刑的"]
+        }
+      ]
+    },
+    {
+      "word": "captive",
+      "phonetic": "[ˈkæptɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["被俘的，被监禁的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["俘虏，囚徒，战俘"]
+        }
+      ]
+    },
+    {
+      "word": "capture",
+      "phonetic": "[ˈkæptʃər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["俘虏，捕获", "夺得，攻占"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["俘虏，捕获（物）"]
+        }
+      ]
+    },
+    {
+      "word": "career",
+      "phonetic": "[kəˈrɪər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["生涯，经历", "职业"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["职业的"]
+        }
+      ]
+    },
+    {
+      "word": "careful",
+      "phonetic": "[ˈkeəfl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["小心的，谨慎的"]
+        }
+      ]
+    },
+    {
+      "word": "careful",
+      "phonetic": "[ˈkeəfl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["小心的，仔细的", "细致的，精心的"]
+        }
+      ]
+    },
+    {
+      "word": "case",
+      "phonetic": "[keɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["事例，事实，事情", "病例；案件"]
+        }
+      ]
+    },
+    {
+      "word": "cast",
+      "phonetic": "[kɑːst]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["投，扔，抛，撒，掷", "分配......扮演某角色，为(戏剧、角色)选派演员", "铸造，浇铸"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["演员表，一组演员，角色分派"]
+        }
+      ]
+    },
+    {
+      "word": "casual",
+      "phonetic": "[ˈkæʒuəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["偶然的，无计划的", "随便的，非正式的"]
+        }
+      ]
+    },
+    {
+      "word": "casualty",
+      "phonetic": "[ˈkæʒuəlti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(战争或事故中的)伤亡者，牺牲品"]
+        }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "[kætʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(caught, caught)捉住，捕获", "赶上，搭上（车、船等）", "感染，得病", "理解，听懂"]
+        }
+      ]
+    },
+    {
+      "word": "category",
+      "phonetic": "[ˈkætəɡɔːri]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(人或事物的)类别，种类", "类目"]
+        }
+      ]
+    },
+    {
+      "word": "cater",
+      "phonetic": "[ˈkeɪtər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(for)提供饮食，承办酒席", "(for, to)提供节目，满足需要，迎合"]
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "phonetic": "[kɔːz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["导致，引起"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["原因，起因", "理由，缘故", "事业，(奋斗的)目标"]
+        }
+      ]
+    },
+    {
+      "word": "caution",
+      "phonetic": "[ˈkɔːʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["谨慎，慎重", "警告"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["警告，提醒"]
+        }
+      ]
+    },
+    {
+      "word": "cautious",
+      "phonetic": "[ˈkɔːʃəs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["(of)小心的，谨慎的"]
+        }
+      ]
+    },
+    {
+      "word": "cease",
+      "phonetic": "[siːs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["停止，终止，结束"]
+        }
+      ]
+    },
+    {
+      "word": "celebrate",
+      "phonetic": "[ˈselɪbreɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["庆祝", "赞美"]
+        }
+      ]
+    },
+    {
+      "word": "celebrity",
+      "phonetic": "[səˈlebrəti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["名人，知名人士", "名声，名望"]
+        }
+      ]
+    },
+    {
+      "word": "ceremony",
+      "phonetic": "[ˈserəməni]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["典礼，仪式", "礼节，礼仪"]
+        }
+      ]
+    },
+    {
+      "word": "certain",
+      "phonetic": "[ˈsɜːrtn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["确定的，肯定的", "某，某些", "轻微的，一点，一些"]
+        }
+      ]
+    },
+    {
+      "word": "certificate",
+      "phonetic": "[səˈtɪfɪkət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["证（明）书，执照"]
+        }
+      ]
+    },
+    {
+      "word": "certify",
+      "phonetic": "[ˈsɜːrtɪfaɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["证明，证实", "发证书（或执照）"]
+        }
+      ]
+    },
+    {
+      "word": "decline",
+      "phonetic": "[dɪˈklaɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["下降，减少", "衰退，衰落", "倾斜"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["拒绝，谢绝", "下降，减少"]
+        }
+      ]
+    },
+    {
+      "word": "decrease",
+      "phonetic": "[dɪˈkriːs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["减少，减小"]
+        }
+      ]
+    },
+    {
+      "word": "decree",
+      "phonetic": "[dɪˈkriː]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["法令；政令；裁定，判决"]
+        }
+      ]
+    },
+    {
+      "word": "decree",
+      "phonetic": "v",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["颁布法令", "下达政令", "发出命令"]
+        }
+      ]
+    },
+    {
+      "word": "deem",
+      "phonetic": "[di:m]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["认为", "相信"]
+        }
+      ]
+    },
+    {
+      "word": "dedicate",
+      "phonetic": "['dediket]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["(to)奉献", "把······用在"]
+        }
+      ]
+    },
+    {
+      "word": "deduce",
+      "phonetic": "[rdju:s]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["演绎", "推论"]
+        }
+      ]
+    },
+    {
+      "word": "deduct",
+      "phonetic": "[drdAkt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["(from)减去", "扣除", "(演绎地)推论"]
+        }
+      ]
+    },
+    {
+      "word": "fashion",
+      "phonetic": "[faefn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["方式", "样子", "流行式样", "时尚", "时装"]
+        }
+      ]
+    },
+    {
+      "word": "fashionable",
+      "phonetic": "[faefnabl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["流行的", "时兴的", "时髦的", "时髦人物使用的", "(尤指)有钱人常光顾的"]
+        }
+      ]
+    },
+    {
+      "word": "favor",
+      "phonetic": "[ferva(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["恩惠", "善意的行为", "好感", "喜爱", "偏爱", "特殊照顾"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["喜爱", "偏爱", "赞同", "支持", "拥护", "有利于"]
+        }
+      ]
+    },
+    {
+      "word": "favorable",
+      "phonetic": "['feivorobl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["赞许的", "有利的"]
+        }
+      ]
+    },
+    {
+      "word": "favorite",
+      "phonetic": "['feivorit]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["最喜欢的", "中意的"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["最喜爱的人或物"]
+        }
+      ]
+    },
+    {
+      "word": "sit",
+      "phonetic": "[sit]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["坐", "就座", "(for)参加考试", "代人临时看小孩"]
+        }
+      ]
+    },
+    {
+      "word": "site",
+      "phonetic": "[salt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["位置", "场所", "地点", "遗址"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["使坐落在", "设置"]
+        }
+      ]
+    },
+    {
+      "word": "situate",
+      "phonetic": "['sitfuelt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["使位于", "使坐落于", "(常用做比喻)将.置于", "使联系"]
+        }
+      ]
+    },
+    {
+      "word": "situation",
+      "phonetic": "[sitfuelfn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["形势", "状况", "职位", "职务", "工作", "位置", "环境"]
+        }
+      ]
+    },
+    {
+      "word": "skeleton",
+      "phonetic": "['skelitn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["骨骼", "骨架", "框架", "梗概", "提要", "(维持运作所需的)最少人员", "最基本的服务等"]
+        }
+      ]
+    },
+    {
+      "word": "skeptical/sceptical",
+      "phonetic": "[skeptuk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["怀疑的", "[口]无神论的"]
+        }
+      ]
+    },
+    {
+      "word": "sketch",
+      "phonetic": "[sketf]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["素描", "速写", "草图", "略图", "概述", "纲要"]
+        },
+        {
+          "part_of_speech": "v",
+          "definitions": ["画素描", "画速写", "概述", "简述"]
+        }
+      ]
+    }
+  ]
+}

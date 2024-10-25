@@ -1,0 +1,1188 @@
+{
+  "words": [
+    {
+      "word": "addict",
+      "phonetic": "[aedikt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "使沉溺，使上瘾"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "add",
+      "phonetic": "[aed]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "加，增加",
+            "补充说，又说"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "addition",
+      "phonetic": "[a'difn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "加，加法",
+            "增加的人或物"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "additional",
+      "phonetic": "[adifnl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "附加的，另外的，外的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "phonetic": "[adres]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "演说",
+            "地址，住址"
+          ]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "向……作（正）话",
+            "称呼",
+            "对付，处理"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adequate",
+      "phonetic": "[aedikwat]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "足够的，充分的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adjust",
+      "phonetic": "[ad3Ast]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "调节，调整",
+            "校正",
+            "适应"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "administration",
+      "phonetic": "[ad.min'strelfn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "管理，经营",
+            "政府，行政（机关）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admire",
+      "phonetic": "[adma(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "钦佩，羡慕",
+            "夸奖"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admission",
+      "phonetic": "[admifn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "允许进入，接纳",
+            "承认",
+            "入场券，入场费"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admit",
+      "phonetic": "[ad'mIt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "让......进入，接纳",
+            "承认"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adapt",
+      "phonetic": "[a'daept]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "（使）适应",
+            "改编"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adopt",
+      "phonetic": "[a'dopt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "采用，采纳",
+            "正式通过，批准",
+            "继承",
+            "收养"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adult",
+      "phonetic": "[aedAlt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "成年人的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brace",
+      "phonetic": "[brets]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "托架，支架"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "支撑，加固",
+            "使绷紧",
+            "使防备，使做好准备，使经受锻炼",
+            "做好防备"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brain",
+      "phonetic": "",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "大脑",
+            "（常pl.）脑力，头脑，智能"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "branch",
+      "phonetic": "[brantf]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（树）枝，分支",
+            "分部，分店",
+            "（学科）分科，部门",
+            "支流，支脉"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brand",
+      "phonetic": "[brand]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "商标，标记，牌子"
+          ]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "打火印，打烙印",
+            "使铭记"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toss",
+      "phonetic": "[tos]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "扔，抛，掷",
+            "摇摆，颠簸"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "total",
+      "phonetic": "[taot]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "总数，总计"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "总的，全部的，完全的"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "总计，合计，总共"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "touch",
+      "phonetic": "[tAt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "触，碰，摸",
+            "感动，触动",
+            "涉及，论及"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "触动，碰到，触摸",
+            "少许，一点儿"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tough",
+      "phonetic": "[tAf]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "坚韧的，牢固的",
+            "强壮的，吃苦耐劳的",
+            "强硬的，顽固的",
+            "艰苦的，棘手的",
+            "粗暴的，粗鲁的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "treat",
+      "phonetic": "[tri:t]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "对待，处理，治疗",
+            "论述，探讨",
+            "款待，请客"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "款待，请客"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "treaty",
+      "phonetic": "[tri:ti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（国家之间的）条约，协定"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trend",
+      "phonetic": "[trend]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "倾向，趋势",
+            "时髦，时尚"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vice",
+      "phonetic": "[vals]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "不道德行为，恶习",
+            "台钳，老虎钳"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "副的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vicious",
+      "phonetic": "['vifos]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "邪恶的，恶毒的",
+            "凶残的，堕落的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "victim",
+      "phonetic": "[viktim]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "牺牲品，受害者"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "click",
+      "phonetic": "[klik]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "咔嗒声"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "发出咔嗒声",
+            "很快成为好朋友",
+            "为（某人）所喜爱",
+            "突然明白或理解"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "client",
+      "phonetic": "['klaront]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "顾客",
+            "（诉讼）委托人",
+            "当事人"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cling",
+      "phonetic": "[klig]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "坚持",
+            "粘着",
+            "依附"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "close",
+      "phonetic": "[klaoz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "关，闭",
+            "结束，终止"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "结束，了结"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "(to)近的，接近的",
+            "势均力敌的，难分高下的",
+            "仔细的，详细的",
+            "严密的，紧密的"
+          ]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": [
+            "接近地，紧密地"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "closet",
+      "phonetic": "[klozit]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "壁橱，储藏室"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "秘密的"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "把某人关在房间里（作私人会晤）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "code",
+      "phonetic": "[kood]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "代码，密码",
+            "法典，法规，法则"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "personal",
+      "phonetic": "[pa:son]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "个人的，私人的",
+            "人身的，涉及个人的",
+            "亲自的，本人的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "personality",
+      "phonetic": "[.ps:sonaelotil]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "人格，个性"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "personnel",
+      "phonetic": "[p:sonel]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "全体人员，全体职员",
+            "人事（部门）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "form",
+      "phonetic": "[p:sonel]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "形状，形式，表格",
+            "人事（部门）"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "形成，组成，构成"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "formal",
+      "phonetic": "[fo:ml]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "正式的",
+            "形式的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "format",
+      "phonetic": "[fo:maet]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "设计，安排，样式"
+          ]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "使格式化"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "formation",
+      "phonetic": "[fo:meifn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "形成，构成"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "former",
+      "phonetic": "[fo:ma(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "以前的，前"
+          ]
+        },
+        {
+          "part_of_speech": "pron.",
+          "definitions": [
+            "前者"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "formidable",
+      "phonetic": "[fo:m1dabl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "令人敬畏的，可怕的",
+            "引起恐惧或不安的",
+            "难以应付的，难以克服的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "formula",
+      "phonetic": "[fo:mjala]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "公式，程式"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "formulate",
+      "phonetic": "[fo:mjulett]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "规划（制度等）",
+            "构想出（计划、方法等）",
+            "系统地阐述",
+            "用公式表示"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fortunate",
+      "phonetic": "[foxtfonot]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "幸运的，侥幸的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fortune",
+      "phonetic": "[fo:tfu:n]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "命运，运气",
+            "财产"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guide",
+      "phonetic": "[gaid]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "导游，向导，指导者",
+            "指南",
+            "入门",
+            "手册",
+            "路标"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "指引，指导"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guidance",
+      "phonetic": "[gardns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "引导，指导"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guideline",
+      "phonetic": "[gardlain]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "指导方针",
+            "指导原则",
+            "准则",
+            "参考"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guild",
+      "phonetic": "[gld]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（行业）协会",
+            "（中世纪的）行会，同业公会"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guilt",
+      "phonetic": "[glt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "罪责，内疚"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guilty",
+      "phonetic": "[glt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "(of)有罪的",
+            "内疚的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recognition",
+      "phonetic": "[rekagnjn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "认出，辨认",
+            "承认"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recognize/-ise",
+      "phonetic": "[rekagnaiz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "认出，识别",
+            "承认，认可",
+            "明白，认识到"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recommend",
+      "phonetic": "[rekamend]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "推荐",
+            "称赞",
+            "劝告，建议"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recover",
+      "phonetic": "[rikva(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "追回，重新得到",
+            "恢复，康复"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recovery",
+      "phonetic": "[rikAveri]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "恢复，痊愈",
+            "重获"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recruit",
+      "phonetic": "[rkru:t]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "招募（新兵）",
+            "招收（新成员）"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "新兵",
+            "新成员"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sell",
+      "phonetic": "",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "出让，转让",
+            "出售，售卖"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "让人失望的东西"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "send",
+      "phonetic": "[send]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "发送，传达，转致",
+            "派遣，打发，安排去",
+            "使快速移动",
+            "使做出（某种反应）",
+            "使表现出（某种行为）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "senior",
+      "phonetic": "['si:nia(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "年长的",
+            "资格老的，地位较高的",
+            "（比赛）成人的",
+            "高水平的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（大学）四年级学生，毕业班学生",
+            "较年长的人",
+            "比……大……岁的人",
+            "上级，上司"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smart",
+      "phonetic": "[sma:t]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "聪明的，伶俐的",
+            "有力的，猛烈的",
+            "帅气的，整齐的，漂亮的，时髦的"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "（使）剧痛，（使）刺痛"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smell",
+      "phonetic": "[smel]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "气味，臭味",
+            "嗅觉"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "嗅，闻到",
+            "有某种气味"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soak",
+      "phonetic": "[souk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "湿透，浸湿，浸泡",
+            "渗透"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soar",
+      "phonetic": "[so:(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "高飞，翱翔",
+            "耸立",
+            "飞涨",
+            "猛增，剧增"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "高飞范围",
+            "高涨程度",
+            "高飞，飞升"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sociable",
+      "phonetic": "['soufabl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "好交际的，友善的，合群的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "联谊会，联欢会"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "social",
+      "phonetic": "['sosaatl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "社会的",
+            "交际的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialism",
+      "phonetic": "['soufalnzom]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "社会主义"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "society",
+      "phonetic": "[sasaati]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "社会",
+            "社团，协会，学会"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sociology",
+      "phonetic": "[sausablad3i]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "社会学"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soluble",
+      "phonetic": "['soljabl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "可溶的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solution",
+      "phonetic": "[solu:fn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "解答，解决办法",
+            "溶液，溶解"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solve",
+      "phonetic": "[solv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "解答，解决"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detach",
+      "phonetic": "[d'tuetf]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "拆卸",
+            "（from）使分开，使分离"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detail",
+      "phonetic": "[di:teil]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "细节，详情"
+          ]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "详述"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detain",
+      "phonetic": "[ditein]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "拘留，扣押",
+            "留住，耽搁"
+          ]
+        }
+      ]
+    }
+  ]
+}

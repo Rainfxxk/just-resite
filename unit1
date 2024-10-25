@@ -1,0 +1,516 @@
+{
+  "words": [
+    {
+      "word": "embrace",
+      "phonetic": "/ɪmˈbreɪs/",
+      "part_of_speech": "v.",
+      "definitions": ["拥抱", "(欣然)接受", "包含", "包括"]
+    },
+    {
+      "word": "embed",
+      "phonetic": "/ɪmˈbed/",
+      "part_of_speech": "vt.",
+      "definitions": ["使插入", "使嵌入", "深留(记忆中)"]
+    },
+    {
+      "word": "embody",
+      "phonetic": "/ɪmˈbɒdi/",
+      "part_of_speech": "vt.",
+      "definitions": ["使具体化", "表现", "收录", "包括"]
+    },
+    {
+      "word": "embryo",
+      "phonetic": "/ˈembrɪəʊ/",
+      "part_of_speech": "n.",
+      "definitions": ["胚", "胚胎", "萌芽状态"]
+    },
+    {
+      "word": "elicit",
+      "phonetic": "/ɪˈlɪsɪt/",
+      "part_of_speech": "vt.",
+      "definitions": ["引出(真理等)", "探出", "诱出(回答等)"]
+    },
+    {
+      "word": "elite",
+      "phonetic": "/ɪˈliːt; ɪˈliːt/",
+      "part_of_speech": "n.",
+      "definitions": ["[总称]出类拔萃的人(或物)", "精英", "精华", "上层人士", "掌权人物", "实力集团", "精锐部队"]
+    },
+    {
+      "word": "elsewhere",
+      "phonetic": "/elsˈweə(r)/",
+      "part_of_speech": "adv.",
+      "definitions": ["在别处", "在别处", "向别处"]
+    },
+    {
+      "word": "thirst",
+      "phonetic": "/θɜːst/",
+      "part_of_speech": "n.",
+      "definitions": ["渴", "口渴", "(for)渴望", "渴求"]
+    },
+    {
+      "word": "thought",
+      "phonetic": "/θɔːt/",
+      "part_of_speech": "n.",
+      "definitions": ["思想", "思维", "思考", "想法", "观念"]
+    },
+    {
+      "word": "thoughtful",
+      "phonetic": "/ˈθɔːtfl/",
+      "part_of_speech": "adj.",
+      "definitions": ["认真思考的", "沉思的", "有心事的", "体贴的", "关心的"]
+    },
+    {
+      "word": "threat",
+      "phonetic": "/θret/",
+      "part_of_speech": "n.",
+      "definitions": ["恐吓", "威胁", "坏兆头", "危险迹象"]
+    },
+    {
+      "word": "threaten",
+      "phonetic": "/ˈθretn/",
+      "part_of_speech": "v.",
+      "definitions": ["恐吓", "威胁", "有......危险快要来临"]
+    },
+    {
+      "word": "update",
+      "phonetic": "/ʌpˈdeɪt/",
+      "part_of_speech": "vt.",
+      "definitions": ["更新", "使现代化"]
+    },
+{
+      "word": "upgrade",
+      "phonetic": "/ˈʌpɡreɪd/",
+      "part_of_speech": "vt.",
+      "definitions": ["提高", "使升级", "改善"]
+    },
+    {
+      "word": "uphold",
+      "phonetic": "/ʌpˈhoʊld/",
+      "part_of_speech": "vt.",
+      "definitions": ["举起", "高举", "支持", "维护", "赞成"]
+    },
+    {
+      "word": "upset",
+      "phonetic": "/ʌpˈset/",
+      "part_of_speech": "v.",
+      "definitions": ["使心烦意乱", "使苦恼", "打乱", "搅乱", "弄翻", "打翻"]
+    },
+    {
+      "word": "up-to-date",
+      "phonetic": "/ˌʌp.tuːˈdeɪt/",
+      "part_of_speech": "adj.",
+      "definitions": ["时新的", "新式的", "现代化的"]
+    },
+    {
+      "word": "ventilate",
+      "phonetic": "/ˈventɪleɪt/",
+      "part_of_speech": "v.",
+      "definitions": ["使通风", "使空气流通", "公开讨论（问题、意见等）"]
+    },
+    {
+      "word": "venture",
+      "phonetic": "/ˈventʃər/",
+      "part_of_speech": "n.",
+      "definitions": ["冒险", "冒险行动", "投机行动", "(冒险)事业"],
+      "verb_definitions": ["冒险", "用······进行投机", "敢于", "敢说"]
+    },
+    {
+      "word": "widespread",
+      "phonetic": "/ˈwaɪdˌsprɛd/",
+      "part_of_speech": "adj.",
+      "definitions": ["遍布的", "普遍的"]
+    },
+    {
+      "word": "win",
+      "phonetic": "/wɪn/",
+      "part_of_speech": "v.",
+      "definitions": ["(won, won)(获)胜", "赢得", "达到", "获取"],
+      "noun_definitions": ["赢", "胜利"]
+    },
+    {
+      "word": "wit",
+      "phonetic": "/wɪt/",
+      "part_of_speech": "n.",
+      "definitions": ["智力", "才智"]
+    },
+    {
+      "word": "withdraw",
+      "phonetic": "/wɪðˈdrɔ/",
+      "part_of_speech": "v.",
+      "definitions": ["抽回", "收回", "提取", "取消", "撤回", "撤退", "离开"]
+    },
+    {
+      "word": "witness",
+      "phonetic": "/ˈwɪtnəs/",
+      "part_of_speech": "n.",
+      "definitions": ["目击者", "见证人", "证据", "证言"],
+      "verb_definitions": ["目击", "目睹", "作证", "证明"]
+    },
+    {
+      "word": "inaugurate",
+      "phonetic": "/ɪˈnɔːɡjəreɪt/",
+      "part_of_speech": "v.",
+      "definitions": ["为(某人)举行就职典礼", "为······举行落成仪式", "引进", "开创", "开始"]
+    },
+    {
+      "word": "incentive",
+      "phonetic": "/ɪnˈsentɪv/",
+      "part_of_speech": "n.",
+      "definitions": ["刺激", "奖励", "动机", "诱因"]
+    },
+    {
+      "word": "incidence",
+      "phonetic": "/ˈɪnsɪdəns/",
+      "part_of_speech": "n.",
+      "definitions": ["发生(率)", "影响(范围、方式、程序)"]
+    },
+    {
+      "word": "incident",
+      "phonetic": "/ˈɪnsɪdənt/",
+      "part_of_speech": "n.",
+      "definitions": ["事件", "事变"]
+    },
+    {
+      "word": "incidentally",
+      "phonetic": "/ˌɪnsɪˈdentəli/",
+      "part_of_speech": "adv.",
+      "definitions": ["偶然地", "附带地", "顺便提及"]
+    },
+    {
+      "word": "incline",
+      "phonetic": "/ɪnˈklaɪn/",
+      "part_of_speech": "v.",
+      "definitions": ["倾斜", "(to)(性格上)倾向", "喜欢", "爱好", "(to)趋向", "趋势"]
+    },
+    {
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "part_of_speech": "adj.",
+      "definitions": ["学院的", "学术的"]
+    },
+   {
+      "word": "academy",
+      "phonetic": "/ækəˈdɛmi/",
+      "part_of_speech": "n.",
+      "definitions": ["学院"]
+    },
+    {
+      "word": "academic",
+      "phonetic": "/ækəˈdɛmɪk/",
+      "part_of_speech": "adj.",
+      "definitions": ["学院的", "学术的"]
+    },
+    {
+      "word": "accelerate",
+      "phonetic": "/əkˈsɛlərət/",
+      "part_of_speech": "v.",
+      "definitions": ["(使)加速", "(使)加快", "(使)增速"]
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsɛpt/",
+      "part_of_speech": "v.",
+      "definitions": ["接受", "认可", "同意", "承认"]
+    },
+    {
+      "word": "acceptance",
+      "phonetic": "/əkˈsɛptəns/",
+      "part_of_speech": "n.",
+      "definitions": ["接受", "承认", "认可"]
+    },
+    {
+      "word": "access",
+      "phonetic": "/ˈæksɛs/",
+      "part_of_speech": "n.",
+      "definitions": ["接近", "进入", "接近(或进入)的机会", "享用机会", "入口", "通道"]
+    },
+    {
+      "word": "accessory",
+      "phonetic": "/əkˈsɛsəri/",
+      "part_of_speech": "n.",
+      "definitions": ["附件", "配件", "从犯"],
+      "adjective_definitions": ["附属的", "辅助的"]
+    },
+    {
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "part_of_speech": "v.",
+      "definitions": ["开始", "创始", "开始讲话"],
+      "past_tense": "began",
+      "past_participle": "begun"
+    },
+    {
+      "word": "beginning",
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "part_of_speech": "n.",
+      "definitions": ["开端", "开始", "(pl.)初级阶段", "源于"]
+    },
+    {
+      "word": "behalf",
+      "phonetic": "/bɪˈhæf/",
+      "part_of_speech": "n.",
+      "definitions": ["利益", "代表"]
+    },
+    {
+      "word": "behave",
+      "phonetic": "/bɪˈheɪv/",
+      "part_of_speech": "v.",
+      "definitions": ["举止端正", "听话", "表现", "行为", "(机器等)运转"]
+    },
+    {
+      "word": "behavior",
+      "phonetic": "/bɪˈheɪvjər/",
+      "part_of_speech": "n.",
+      "definitions": ["行为", "举止", "表现方式", "特性"]
+    },
+    {
+      "word": "belief",
+      "phonetic": "/bɪˈliːf/",
+      "part_of_speech": "n.",
+      "definitions": ["信仰", "信条", "相信", "信念"]
+    },
+    {
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "part_of_speech": "v.",
+      "definitions": ["相信", "信任", "(in)信仰", "相信存在"]
+    },
+    {
+      "word": "belong",
+      "phonetic": "/bɪˈlɒŋ/",
+      "part_of_speech": "vi.",
+      "definitions": ["(to)属于", "附属", "隶属", "应归人(类别、范畴等)"]
+    },
+    {
+      "word": "beneficial",
+      "phonetic": "/ˌbɛnɪˈfɪʃəl/",
+      "part_of_speech": "adj.",
+      "definitions": ["(to)有益的", "有好处的"]
+    },
+    {
+      "word": "benefit",
+      "phonetic": "/ˈbɛnɪfɪt/",
+      "part_of_speech": "n.",
+      "definitions": ["利益", "好处", "恩惠"],
+      "verb_definitions": ["有益于", "受益于"]
+    },
+    {
+      "word": "benevolent",
+      "phonetic": "/bəˈnɛvələnt/",
+      "part_of_speech": "adj.",
+      "definitions": ["善意的", "仁慈的"]
+    },
+    {
+      "word": "benign",
+      "phonetic": "/bɪˈnaɪn/",
+      "part_of_speech": "adj.",
+      "definitions": ["(病)良性的", "(气候)良好的", "(人或行为)仁慈的", "和蔼的"]
+    },
+        {
+      "word": "challenge",
+      "phonetic": "/ˈtʃælɪndʒ/",
+      "part_of_speech": "vt.",
+      "definitions": ["向......挑战", "对......质疑", "公然反抗", "需要", "要求", "考验（某人的）能力", "激励"],
+      "noun_definitions": ["挑战", "艰苦的任务", "努力追求的目标"]
+    },
+    {
+      "word": "chance",
+      "phonetic": "/tʃɑːns/",
+      "part_of_speech": "n.",
+      "definitions": ["机会", "可能性", "偶然性", "运气"],
+      "verb_definitions": ["碰巧", "偶然发生"]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "part_of_speech": "n.",
+      "definitions": ["改变", "变化", "零钱", "找头"],
+      "verb_definitions": ["交换", "兑换", "改变", "变化"]
+    },
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænəl/",
+      "part_of_speech": "n.",
+      "definitions": ["海峡", "水道", "频道", "波段", "(常pl.)路线", "途径"]
+    },
+    {
+      "word": "character",
+      "phonetic": "/ˈkærəktə(r)/",
+      "part_of_speech": "n.",
+      "definitions": ["(事物的)性质", "特性", "(人的)品质", "性格", "(小说、戏剧等的)人物", "角色", "(书写或印刷)符号", "(汉)字"]
+    },
+    {
+      "word": "characterise/-ize",
+      "phonetic": "",
+      "part_of_speech": "vt.",
+      "definitions": ["表示......的特性", "描述......特性"]
+    },
+    {
+      "word": "characteristic",
+      "phonetic": "/ˌkærəktəˈrɪstɪk/",
+      "part_of_speech": "n.",
+      "definitions": ["特征", "特性"],
+      "adjective_definitions": ["特有的", "独特的"]
+    },
+    {
+      "word": "defend",
+      "phonetic": "/dɪˈfend/",
+      "part_of_speech": "vt.",
+      "definitions": ["防御", "防卫", "保卫", "为……辩护", "为……答辩"]
+    },
+    {
+      "word": "define",
+      "phonetic": "/dɪˈfaɪn/",
+      "part_of_speech": "vt.",
+      "definitions": ["规定", "限定", "使明确", "使清楚", "解释", "给……下定义"]
+    },
+    {
+      "word": "definite",
+      "phonetic": "/ˈdefɪnət/",
+      "part_of_speech": "adj.",
+      "definitions": ["明确的", "肯定的", "限定的"]
+    },
+    {
+      "word": "definition",
+      "phonetic": "/ˌdefɪˈnɪʃən/",
+      "part_of_speech": "n.",
+      "definitions": ["定义", "解释", "[物]清晰度"]
+    },
+    {
+      "word": "defy",
+      "phonetic": "/dɪˈfaɪ/",
+      "part_of_speech": "vt.",
+      "definitions": ["蔑视", "(公然)违抗", "反抗", "使成为不可能"]
+    },
+    {
+      "word": "degree",
+      "phonetic": "/dɪˈɡriː/",
+      "part_of_speech": "n.",
+      "definitions": ["程度", "度数", "学位", "等级"]
+    },
+    {
+      "word": "delay",
+      "phonetic": "/dɪˈleɪ/",
+      "part_of_speech": "n.",
+      "definitions": ["耽搁", "延迟"],
+      "verb_definitions": ["耽搁", "延迟"]
+    },
+    {
+      "word": "deliberate",
+      "phonetic": "/dɪˈlɪbərət/",
+      "part_of_speech": "adj.",
+      "definitions": ["慎重的", "深思熟虑的", "蓄意的", "故意的"],
+      "verb_definitions": ["(upon,over,about)仔细考虑", "商议"]
+    },
+    {
+      "word": "delicate",
+      "phonetic": "/ˈdelɪkət/",
+      "part_of_speech": "adj.",
+      "definitions": ["纤弱的", "精密的", "微妙的", "灵敏的"]
+    },
+    {
+      "word": "deliver",
+      "phonetic": "/dɪˈlɪvər/",
+      "part_of_speech": "vt.",
+      "definitions": ["给(产妇)接生", "分娩", "投递", "传送", "运输", "发表", "宣布", "给予", "发射", "释放", "解救"]
+    },
+    {
+      "word": "delivery",
+      "phonetic": "/dɪˈlɪvəri/",
+      "part_of_speech": "n.",
+      "definitions": ["递送", "交付", "分娩"]
+    },
+    {
+      "word": "fiction",
+      "phonetic": "/ˈfɪkʃn/",
+      "part_of_speech": "n.",
+      "definitions": ["虚构", "编造", "小说"]
+    },
+    {
+      "word": "field",
+      "phonetic": "/fiːld/",
+      "part_of_speech": "n.",
+      "definitions": ["田", "田野", "运动场", "领域", "范围", "(电磁等)场"]
+    },
+    {
+      "word": "fierce",
+      "phonetic": "/fɪəs/",
+      "part_of_speech": "adj.",
+      "definitions": ["凶猛的", "残忍的", "狂热的", "强烈的"]
+    },
+    {
+      "word": "fight",
+      "phonetic": "/faɪt/",
+      "part_of_speech": "v.",
+      "definitions": ["搏斗", "打仗"],
+      "noun_definitions": ["战斗", "斗志"]
+    },
+    {
+      "word": "figure",
+      "phonetic": "/ˈfɪɡə(r)/",
+      "part_of_speech": "n.",
+      "definitions": ["数字", "体形", "图形", "人物"],
+      "verb_definitions": ["算出", "估计", "推测"]
+    },
+    {
+      "word": "finance",
+      "phonetic": "/ˈfaɪnæns; ˈfaɪnəns; ˈfænəns/",
+      "part_of_speech": "n.",
+      "definitions": ["财政", "金融", "财务状况"],
+      "verb_definitions": ["为......提供资金"]
+    },
+    {
+      "word": "financial",
+      "phonetic": "/fəˈrænʃl/",
+      "part_of_speech": "adj.",
+      "definitions": ["财政的", "金融的"]
+    },
+    {
+      "word": "finding",
+      "phonetic": "/ˈfaɪndɪŋ/",
+      "part_of_speech": "n.",
+      "definitions": ["裁决", "判决", "(常pl.)调查(研究)结果"]
+    },
+    {
+      "word": "finite",
+      "phonetic": "/ˈfaɪnɪt/",
+      "part_of_speech": "adj.",
+      "definitions": ["有限的", "有限制的"]
+    },
+    {
+      "word": "firm",
+      "phonetic": "/fɜːrm/",
+      "part_of_speech": "adj.",
+      "definitions": ["坚固的", "坚决的", "坚定的"],
+      "noun_definitions": ["公司", "商号"]
+    },
+    {
+      "word": "first",
+      "phonetic": "/fɜːst/",
+      "part_of_speech": "adj.",
+      "definitions": ["第一的", "最重要的", "首要的", "最优秀的"],
+      "adverb_definitions": ["首先", "第一", "最初", "(强调不愿意)宁可", "宁愿"],
+      "noun_definitions": ["空前的成就", "前所未有的事情", "(汽车、自行车等的)一档", "最低档", "(英国大学学位)最高成就", "优等成绩"]
+    },
+    {
+      "word": "fit",
+      "phonetic": "/fɪt/",
+      "part_of_speech": "v.",
+      "definitions": ["(使)适合", "(使)配合", "适应", "安装", "装配"],
+      "adjective_definitions": ["(for,to)适合的", "恰当的", "健康的", "强健的"]
+    },
+    {
+      "word": "global",
+      "phonetic": "/ˈɡloʊbəl/",
+      "part_of_speech": "adj.",
+      "definitions": ["全球的", "世界的"]
+    },
+    {
+      "word": "globe",
+      "phonetic": "/ɡloʊb/",
+      "part_of_speech": "n.",
+      "definitions": ["球体", "地球仪", "地球", "世界"]
+    },
+  ]
+}

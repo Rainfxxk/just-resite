@@ -1,0 +1,1116 @@
+{
+  "words": [
+    {
+      "word": "perform",
+      "phonetic": "[pəˈfɔːm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "演奏，演出，表演",
+            "做，执行，完成",
+            "工作，表现"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "[pərˈfɔːrməns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "执行，履行，做",
+            "表演，演出",
+            "演技，表现",
+            "行为，业绩"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "period",
+      "phonetic": "[ˈpɪəriəd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "周期，一段时间",
+            "时期，时代",
+            "学时，课时",
+            "句点，句号"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "periodical",
+      "phonetic": "[ˌpɪəriˈɒdɪkl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "周期的，定期的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "(学术)期刊，杂志"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perish",
+      "phonetic": "[ˈperɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "死亡，丧生",
+            "毁灭，消亡",
+            "(食物等)腐败，腐烂",
+            "(物质或材料)老化，脆裂"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perpetual",
+      "phonetic": "[pəˈpetʃuəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "永恒的",
+            "反复的",
+            "没完没了的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perplex",
+      "phonetic": "[pəˈpleks]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "使困惑，使茫然",
+            "使复杂化，使难办"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perspective",
+      "phonetic": "[pərˈspektɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "观点，看法",
+            "判断力，洞察力",
+            "透视画法，透视图",
+            "远景，景观"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pessimistic",
+      "phonetic": "[ˌpesɪˈmɪstɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "悲观的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "optimistic",
+      "phonetic": "[ˌɒptɪˈmɪstɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "乐观的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "optimum",
+      "phonetic": "[ˈɒptɪməm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "最适宜的",
+            "最有利的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "option",
+      "phonetic": "[ˈɒpʃən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "选项，选择",
+            "可选择的事物",
+            "选择权",
+            "买卖的特权，(未来的)买卖选择权",
+            "选修课"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "optional",
+      "phonetic": "['ɒpʃənl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "可以任选的",
+            "非强制的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organ",
+      "phonetic": "[ˈɔːɡən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "机构，机关",
+            "器官",
+            "风琴，管风琴"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organic",
+      "phonetic": "[ɔːˈɡænɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "器官的",
+            "器质性的",
+            "有机物的",
+            "生物的",
+            "有机的，绿色的",
+            "逐渐的，自然的，演进的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organism",
+      "phonetic": "[ˈɔːɡənɪzəm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "生物（体）",
+            "有机体",
+            "微生物",
+            "有机组织",
+            "有机体系"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organisation/-zation",
+      "phonetic": "[ˌɔːɡənaɪˈzeɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "团体，机构",
+            "组织",
+            "组织性，系统性"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organise/-ize",
+      "phonetic": "[ˈɔːɡənaɪz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "组织，筹备",
+            "整理，使有条理",
+            "安排，分配",
+            "规划，管理"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enhance",
+      "phonetic": "[ɪnˈhæns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "提高（价格、质量、吸引力等）",
+            "增加，增强"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enlarge",
+      "phonetic": "[ɪnˈlɑːrdʒ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "扩大，放大，增大",
+            "扩展，扩充"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enlighten",
+      "phonetic": "[ɪnˈlaɪtn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "启发",
+            "使摆脱偏见（或迷信）",
+            "教育，使获得教益"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rake",
+      "phonetic": "[reɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "耙，耙机，耙状物",
+            "放荡的人，浪子，流氓"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "耙，梳理",
+            "大量搜索，翻检"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rare",
+      "phonetic": "[reə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "稀少的，珍贵的",
+            "稀薄的，稀疏的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rarely",
+      "phonetic": "[ˈreərli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": [
+            "很少，难得，非常地"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rate",
+      "phonetic": "[reɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "比率，率",
+            "速率，速度",
+            "费率",
+            "价格，费用",
+            "等级，品级"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "评估，估价",
+            "定级，列为"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ratio",
+      "phonetic": "[ˈreɪʃioʊ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "比，比率",
+            "比例"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rational",
+      "phonetic": "[ˈræʃnəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "理性的，合理的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reach",
+      "phonetic": "[riːtʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "抵达，到达",
+            "伸手，够到，触到"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "能达到的范围",
+            "影响范围",
+            "波及范围"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "react",
+      "phonetic": "[riːˈækt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vi.",
+          "definitions": [
+            "反应，起作用"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "realistic",
+      "phonetic": "[ˌriːəˈlɪstɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "现实（主义）的",
+            "明智的",
+            "能实现的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reality",
+      "phonetic": "[riːˈælɪti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "现实，实际（情况）",
+            "真实的事物，事实"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "realise/-ize",
+      "phonetic": "[ˈriːəˌlaɪz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "认识到，了解到",
+            "理解，领会",
+            "实现，将......变为现实"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "select",
+      "phonetic": "[sɪˈlekt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "选择，挑选，选拔",
+            "在计算机屏幕上、从菜单中选定，选取"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "精选的，选择的，优等的",
+            "一流的，只为富人（或上层人士）而设的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selection",
+      "phonetic": "[sɪˈlekʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "选择，挑选，选拔",
+            "精选物，选集",
+            "人选者"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sense",
+      "phonetic": "[sens]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "感觉，感官，官能",
+            "观念，意识",
+            "判断力，鉴赏力",
+            "见识，智慧",
+            "道理，合理性",
+            "意义，含义"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "感觉到，觉察到，意识到"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensation",
+      "phonetic": "[senˈseɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（身体上的）感觉，知觉",
+            "感觉能力，知觉能力",
+            "激动",
+            "轰动，轰动一时的事情"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensible",
+      "phonetic": "[ˈsensəbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "明智的，合情理的",
+            "可注意到的，明显的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensitive",
+      "phonetic": "[ˈsensətɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "敏感的",
+            "易受伤害的",
+            "艺术感觉好的",
+            "灵敏的，灵敏度高的",
+            "体贴的，善解人意的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "separate",
+      "phonetic": "[ˈseprət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "分开的，分离的",
+            "单独的",
+            "不同的",
+            "不相关的"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "把......分开，隔开"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sequence",
+      "phonetic": "[ˈsiːkwəns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "先后，次序，连续",
+            "一系列，一连串"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "serial",
+      "phonetic": "[ˈsɪəriəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "连续的",
+            "连续广播的，连载的",
+            "顺序排列的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "连载小说，连续电视",
+            "定期刊物"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "series",
+      "phonetic": "[ˈsɪəriːz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "连续，一系列"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "serious",
+      "phonetic": "[ˈsɪəriəs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "严肃的，庄重的",
+            "严重的，危险的",
+            "认真的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toast",
+      "phonetic": "[toʊst]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "烤面包，吐司",
+            "祝酒（词），干杯"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "烘，烤",
+            "向......祝酒"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "together",
+      "phonetic": "[təˈɡɛðər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": [
+            "共同，一起",
+            "合起来，集拢地"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "token",
+      "phonetic": "[ˈtoʊkən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "表示，标志，象征，证明，信物",
+            "纪念品",
+            "礼券，代价券，筹码，专用辅币"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "象征性的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tolerance",
+      "phonetic": "[ˈtɒlərəns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "容忍，耐性"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tolerant",
+      "phonetic": "[ˈtɒlərənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "容忍的，宽容的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tolerate",
+      "phonetic": "[ˈtɒlərət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "容忍，默许"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accumulate",
+      "phonetic": "[əˈkjuːmjəleɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "积累，积攒，积聚"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accuracy",
+      "phonetic": "[ˈækjərəsi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "准确性"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accurate",
+      "phonetic": "[ˈækjərət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "准确的，正确无误的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accuse",
+      "phonetic": "[əˈkjuːz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "(of)控告，指责"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accuse",
+      "phonetic": "[əˈkjuːz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "指控，指责"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "achieve",
+      "phonetic": "[əˈtʃiːv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "达到（某目标、地位、标准）",
+            "完成，成功"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acknowledge",
+      "phonetic": "[əkˈnɒlɪdʒ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "承认，供认",
+            "对……表示感谢"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheer",
+      "phonetic": "[tʃɪə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "喝彩，欢呼",
+            "鼓舞，鼓励"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "喝彩（声）",
+            "欢呼（声）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chemical",
+      "phonetic": "[ˈkɛmɪkəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "化学的，关于化学的",
+            "用化学方法的"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "化学制品，化学药品"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cherish",
+      "phonetic": "[ˈtʃɛrɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "珍爱，珍视",
+            "爱护，关心",
+            "抱有，怀有（希望、想法、感情等）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chip",
+      "phonetic": "[tʃɪp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "打破",
+            "切削（某物）"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "（土豆等的）薄片",
+            "碎屑",
+            "集成电路块"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "choice",
+      "phonetic": "[tʃɔɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "选择（机会）",
+            "挑选",
+            "供选择的种类，选择项",
+            "入选者，精华"
+          ]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "精选的，优质的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "choose",
+      "phonetic": "[tʃuːz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "选择，挑选",
+            "喜欢，愿意"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "phonetic": "[bɔːrd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "板，木板",
+            "理事会，委员会，董事会",
+            "伙食，膳食费用"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "上船（车，飞机）"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boast",
+      "phonetic": "[boʊst]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "自吹自擂，自夸的话",
+            "引以自豪的事物（或原因）"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "(of, about)自吹自擂，夸耀，吹嘘",
+            "以拥有……而自豪",
+            "有，包含"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bonus",
+      "phonetic": "[ˈbɔnəs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "奖金，红利，补贴",
+            "额外的好处，意外收获"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boom",
+      "phonetic": "[buːm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "低沉有回响的声音",
+            "（经济、工商业等）繁荣期，迅速发展",
+            "（城镇等的）兴起"
+          ]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "暴涨，激增",
+            "迅速发展，繁荣",
+            "发出隆隆声"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boost",
+      "phonetic": "[buːst]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": [
+            "往上推",
+            "增加，提高"
+          ]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "增加",
+            "帮助，鼓励"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verbal",
+      "phonetic": "[ˈvɜːrbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": [
+            "用言辞的，用文字的",
+            "口头的",
+            "动词的"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verdict",
+      "phonetic": "[ˈvɜːrdɪkt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "判断，裁定",
+            "（on）定论，意见"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verify",
+      "phonetic": "[ˈverɪfaɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": [
+            "证明，证实",
+            "查对，查清"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verse",
+      "phonetic": "[vɜːrs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "韵文，诗",
+            "诗节，诗句"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "version",
+      "phonetic": "[ˈvɜːrʒn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "型（式）,版本",
+            "变化形式",
+            "译文，译本",
+            "翻译",
+            "说法，看法"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "phonetic": "[ˈvesl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": [
+            "船，舰",
+            "容器，器皿",
+            "管，血管"
+          ]
+        }
+      ]
+    }
+  ]
+}

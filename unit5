@@ -1,0 +1,836 @@
+    {
+  "words": [
+    {
+      "word": "patch",
+      "phonetic": "[pætʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["补丁，补片", "碎片，碎屑", "小块土地"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["修补", "拼制，拼凑"]
+        }
+      ]
+    },
+    {
+      "word": "patent",
+      "phonetic": "[ˈpætnt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["专利，专利权", "专利品"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["专利的，特许的", "受保护的"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["批准专利", "获得专利"]
+        }
+      ]
+    },
+    {
+      "word": "pattern",
+      "phonetic": "[ˈpætn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["模范，榜样", "模式，样式", "花样，图样", "形状，方式，风格"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(on, upon, after)仿制，仿造"]
+        }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "[peɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(paid, paid)支付，付出", "给予", "进行访问"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["工资，薪金"]
+        }
+      ]
+    },
+    {
+      "word": "payment",
+      "phonetic": "[ˈpeɪmənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["支付，付款额"]
+        }
+      ]
+    },
+    {
+      "word": "peculiar",
+      "phonetic": "[pɪˈkjuːliər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["奇怪的，古怪的", "特有的，独特的"]
+        }
+      ]
+    },
+    {
+      "word": "peer",
+      "phonetic": "[pɪər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(身份或地位)相同的人，同辈", "(英国)贵族"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["仔细看，凝视，窥视"]
+        }
+      ]
+    },
+    {
+      "word": "per",
+      "phonetic": "[pə(r); pə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "prep.",
+          "definitions": ["每，每一", "经，由"]
+        }
+      ]
+    },
+    {
+      "word": "perceive",
+      "phonetic": "[pəˈsiːv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["感知，感觉，察觉", "理解，认识到，认为"]
+        }
+      ]
+    },
+    {
+      "word": "percentage",
+      "phonetic": "[pəˈsentɪdʒ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["百分比，百分率，百分数"]
+        }
+      ]
+    },
+    {
+      "word": "perfect",
+      "phonetic": "[ˈpɜːrfɪkt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["完美的，理想的", "完全的，十足的"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["使完美，改善"]
+        }
+      ]
+    },
+    {
+      "word": "rail",
+      "phonetic": "[reɪl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["铁路，铁轨，轨道", "栏杆，围栏"]
+        }
+      ]
+    },
+    {
+      "word": "railroad",
+      "phonetic": "[ˈreɪlroʊd] / [ˈreɪlweɪ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["铁路"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["由铁路运输", "使(议案等)草草通过"]
+        }
+      ]
+    },
+    {
+      "word": "raise",
+      "phonetic": "[reɪz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["举起，建立", "提升"]
+        }
+      ]
+    },
+    {
+      "word": "rally",
+      "phonetic": "[ˈræli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["集合；团结", "恢复（健康等）,重新振作"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["（群众）集会，（群众）大会", "公路汽车赛"]
+        }
+      ]
+    },
+    {
+      "word": "random",
+      "phonetic": "[ˈrændəm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["胡乱的，任意的，随意的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["任意，随意"]
+        }
+      ]
+    },
+    {
+      "word": "range",
+      "phonetic": "[reɪndʒ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["（山、丘等连贯而成的）脉", "排，行", "一系列", "幅度，范围，领域"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["排列，排成行", "（在某范围内）变化，变动"]
+        }
+      ]
+    },
+    {
+      "word": "rank",
+      "phonetic": "[ræŋk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["排，行，列", "社会地位，阶级，级别", "军阶，军衔"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["排列", "分等级，把......分类"]
+        }
+      ]
+    },
+    {
+      "word": "master",
+      "phonetic": "[ˈmɑːstər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["主人，雇主", "师傅，能手，大家，大师"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["精通，掌握"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["熟练的，精通的"]
+        }
+      ]
+    },
+    {
+      "word": "masterpiece",
+      "phonetic": "[ˈmɑːstərpiːs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["杰作，名著"]
+        }
+      ]
+    },
+    {
+      "word": "mate",
+      "phonetic": "[meɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["伙伴，同事", "配偶，性伴侣"]
+        }
+      ]
+    },
+    {
+      "word": "material",
+      "phonetic": "[məˈtɪəriəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["材料，原料，资料"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["物质的，实体的"]
+        }
+      ]
+    },
+    {
+      "word": "mathematical",
+      "phonetic": "[ˌmæθəˈmætɪkl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["数学（上）的；精确的"]
+        }
+      ]
+    },
+    {
+      "word": "mature",
+      "phonetic": "[məˈtʃʊər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["熟的，成熟的", "成年人的"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["使成熟"]
+        }
+      ]
+    },
+    {
+      "word": "maximum",
+      "phonetic": "[ˈmæksɪməm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["最大值，极限"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["最大的，最高的，最强的"]
+        }
+      ]
+    },
+    {
+      "word": "mean",
+      "phonetic": "[miːn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["(meant, meant)表示......的意思，意指", "意欲，打算"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["卑鄙的；吝啬的，小气的", "低劣的，简陋的", "中间的，平均的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["平均值"]
+        }
+      ]
+    },
+    {
+      "word": "meaning",
+      "phonetic": "[ˈmiːnɪŋ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["意义，意思，含义"]
+        }
+      ]
+    },
+    {
+      "word": "means",
+      "phonetic": "[miːnz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["方法，手段；财富，资产"]
+        }
+      ]
+    },
+    {
+      "word": "meantime",
+      "phonetic": "[ˈmiːntaɪm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["其间，其时"]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["同时，其间"]
+        }
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "phonetic": "[ˈmiːnwaɪl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["其间，其时"]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["同时，当时"]
+        }
+      ]
+    },
+    {
+      "word": "measure",
+      "phonetic": "[ˈmeʒər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["量，测量"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["程度，地步", "（常pl.）措施，办法"]
+        }
+      ]
+    },
+    {
+      "word": "opening",
+      "phonetic": "[ˈoʊpənɪŋ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["口子，孔", "开始，机会"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["开始的，开幕的"]
+        }
+      ]
+    },
+    {
+      "word": "opera",
+      "phonetic": "[ˈɒprə]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["歌剧，歌剧团"]
+        }
+      ]
+    },
+    {
+      "word": "oppress",
+      "phonetic": "[əˈpres]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["压迫，压制"]
+        }
+      ]
+    },
+    {
+      "word": "operate",
+      "phonetic": "[ˈɒpəreɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["运转，开动", "(on)动手术，开刀", "操作，开动机器"]
+        }
+      ]
+    },
+    {
+      "word": "scope",
+      "phonetic": "[skəʊp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(组织、活动等的)范围", "机会，余地"]
+        }
+      ]
+    },
+    {
+      "word": "operation",
+      "phonetic": "[ˌɒpəˈreɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["运转，开动，操作", "(on)手术"]
+        }
+      ]
+    },
+    {
+      "word": "operational",
+      "phonetic": "[ˌɒpəˈreɪʃənl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["操作的，运转的"]
+        }
+      ]
+    },
+    {
+      "word": "score",
+      "phonetic": "[skɔːr]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["得分，比分，分数，成绩"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["得分，记分"]
+        }
+      ]
+    },
+    {
+      "word": "scorn",
+      "phonetic": "[skɔːrn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["轻蔑，鄙视"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["轻蔑，鄙视"]
+        }
+      ]
+    },
+    {
+      "word": "secure",
+      "phonetic": "[sɪˈkjʊər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["安全的，可靠的，有把握的"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["使安全，保卫", "弄到，获得"]
+        }
+      ]
+    },
+    {
+      "word": "security",
+      "phonetic": "[sɪˈkjʊərəti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["安全"]
+        }
+      ]
+    },
+    {
+      "word": "operator",
+      "phonetic": "[ˈɒpəreɪtər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["操作人员，(电话)接线员"]
+        }
+      ]
+    },
+    {
+      "word": "opinion",
+      "phonetic": "[əˈpɪnjən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["意见，看法，主张"]
+        }
+      ]
+    },
+    {
+      "word": "opportunity",
+      "phonetic": "[ˌɒpərˈtunəti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["机会"]
+        }
+      ]
+    },
+    {
+      "word": "opponent",
+      "phonetic": "[əˈpoʊnənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["对手，反对者"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["对立的，对抗的"]
+        }
+      ]
+    },
+    {
+      "word": "oppose",
+      "phonetic": "[əˈpoʊz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["反对，反抗"]
+        }
+      ]
+    },
+    {
+      "word": "opposite",
+      "phonetic": "[ˈɒpəzɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["(to)相反的，对立的；对面的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["对立面，对立物"]
+        }
+      ]
+    },
+    {
+      "word": "seemingly",
+      "phonetic": "[ˈsiːmɪŋli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["表面上地；在......看来，就我们所知而言"]
+        }
+      ]
+    },
+    {
+      "word": "thrift",
+      "phonetic": "[θrɪft]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["节俭，节约"]
+        }
+      ]
+    },
+    {
+      "word": "thrill",
+      "phonetic": "[θrɪl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["使非常兴奋，使非常激动"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["兴奋，激动", "引起激动"]
+        }
+      ]
+    },
+    {
+      "word": "thrive",
+      "phonetic": "[θraɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vi.",
+          "definitions": ["兴旺发达，繁荣", "茁壮生长"]
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "phonetic": "[θruː]",
+      "definitions_list": [
+        {
+          "part_of_speech": "prep.",
+          "definitions": ["穿过，通过", "由,以,因为,由于"]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["从头到尾,自始至终", "直达地;彻底,完全,穿过"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["直达的,直通的"]
+        }
+      ]
+    },
+    {
+      "word": "throughout",
+      "phonetic": "[θruːˈaʊt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "prep.",
+          "definitions": ["遍及,贯穿"]
+        },
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["到处,全部,始终"]
+        }
+      ]
+    },
+    {
+      "word": "tip",
+      "phonetic": "[tɪp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["末端,尖端", "小费;秘密消息"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["给小费;向......透露", "翻倒;轻触,轻碰"]
+        }
+      ]
+    },
+    {
+      "word": "title",
+      "phonetic": "[ˈtaɪtl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["标题,题目,书名", "称号,头衔"]
+        }
+      ]
+    },
+    {
+      "word": "urban",
+      "phonetic": "[ˈɜːrbən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["城市的"]
+        }
+      ]
+    },
+    {
+      "word": "urge",
+      "phonetic": "[ɜːrdʒ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["推进,鼓励", "力劝,恳求"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["强烈的欲望,迫切的要求"]
+        }
+      ]
+    },
+    {
+      "word": "urgent",
+      "phonetic": "[ˈɜːrdʒənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["紧迫的,紧要的"]
+        }
+      ]
+    },
+    {
+      "word": "utilize",
+      "phonetic": "[ˈjuːtɪlaɪz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["利用"]
+        }
+      ]
+    },
+    {
+      "word": "utter",
+      "phonetic": "[ˈʌtər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["发出(声音等),说,吐露"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["完全的,彻底的,十足的"]
+        }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "[ˈwʌndə]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["奇迹,奇事", "惊奇,惊讶"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(at)感到惊讶,感到诧异", "感到诧异;想要知道"]
+        }
+      ]
+    },
+    {
+      "word": "worship",
+      "phonetic": "[ˈwɜːrʃɪp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["崇拜,崇敬", "礼拜,敬神,敬神活动"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["崇拜,敬奉", "做礼拜,敬神,拜神"]
+        }
+      ]
+    },
+    {
+      "word": "worth",
+      "phonetic": "[wɜːrθ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["值......钱;值得......;拥有"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["价值"]
+        }
+      ]
+    },
+    {
+      "word": "worthwhile",
+      "phonetic": "[ˌwɜːrθˈwaɪl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["值得(做)的"]
+        }
+      ]
+    },
+    {
+      "word": "worthy",
+      "phonetic": "[ˈwɜːrði]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["(of)值得......的,配得上......的;敬的,有价值的,大作为的"]
+        }
+      ]
+    },
+    {
+      "word": "write",
+      "phonetic": "[raɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["写,写字,写信,写作"]
+        }
+      ]
+    },
+    {
+      "word": "writer",
+      "phonetic": "[ˈraɪtər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["作家,作者"]
+        }
+      ]
+    }
+  ]
+}

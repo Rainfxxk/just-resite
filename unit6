@@ -1,0 +1,786 @@
+{
+  "words": [
+    {
+      "word": "abandon",
+      "phonetic": "[əˈbændən]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["抛弃，遗弃，离弃", "放弃"]
+        }
+      ]
+    },
+    {
+      "word": "abide",
+      "phonetic": "[əˈbaɪd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["容忍，忍受", "遵守，忠于", "逗留，居住"]
+        }
+      ]
+    },
+    {
+      "word": "ability",
+      "phonetic": "[əˈbɪlɪti]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["能力，智能", "才能，才干"]
+        }
+      ]
+    },
+    {
+      "word": "able",
+      "phonetic": "[ˈeɪbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["有能力的，能干的", "显示出才华的"]
+        }
+      ]
+    },
+    {
+      "word": "abnormal",
+      "phonetic": "[æbˈnɔːrml]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["反常的，异常的", "变态的"]
+        }
+      ]
+    },
+    {
+      "word": "background",
+      "phonetic": "[ˈbækɡraʊnd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["背景，底色", "背景情况", "个人背景资料（学历、资历等）"]
+        }
+      ]
+    },
+    {
+      "word": "balance",
+      "phonetic": "[ˈbæləns]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["（使）平衡"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["天平，秤", "平衡，均衡", "差额，结余，余款"]
+        }
+      ]
+    },
+    {
+      "word": "base",
+      "phonetic": "[beɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["基础，底部，底座", "基地，根据地", "总部，大本营"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["(on/upon)把......基于", "以......为依据"]
+        }
+      ]
+    },
+    {
+      "word": "basement",
+      "phonetic": "[ˈbeɪsmənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["地下室", "建筑物的底部"]
+        }
+      ]
+    },
+    {
+      "word": "basic",
+      "phonetic": "[ˈbeɪsɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["基本（础）的", "根本的"]
+        }
+      ]
+    },
+    {
+      "word": "basis",
+      "phonetic": "[ˈbeɪsɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["基础，根据"]
+        }
+      ]
+    },
+    {
+      "word": "calculate",
+      "phonetic": "[ˈkælkjuleɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["计算，推算", "估计，推测", "（常用被动语态，后接不定式）计划，打算"]
+        }
+      ]
+    },
+    {
+      "word": "call",
+      "phonetic": "[kɔːl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["喊，叫", "打电话", "把……叫做，称呼，称为"]
+        }
+      ]
+    },
+    {
+      "word": "calm",
+      "phonetic": "[kɑːm]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["（天气、海洋等）静的，平静的"]
+        }
+      ]
+    },
+    {
+      "word": "campaign",
+      "phonetic": "[kæmˈpeɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["战役", "运动，竞选活动"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["发起运动，开展活动"]
+        }
+      ]
+    },
+    {
+      "word": "candidate",
+      "phonetic": "[ˈkændɪdət; -dɪdæːt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["候选人，候补者", "报考者，考生"]
+        }
+      ]
+    },
+    {
+      "word": "database",
+      "phonetic": "[ˈdeɪtəbeɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["数据库"]
+        }
+      ]
+    },
+    {
+      "word": "date",
+      "phonetic": "[deɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["日期，年代", "约会"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["注明……的日期", "约会", "鉴定年代"]
+        }
+      ]
+    },
+    {
+      "word": "dazzle",
+      "phonetic": "[ˈdæzl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["(强光等)使目眩，耀眼", "使惊奇，使倾倒"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["耀眼的光，闪耀物", "令人赞叹的东西"]
+        }
+      ]
+    },
+    {
+      "word": "deal",
+      "phonetic": "[diːl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(dealt, dealt)处理，给予", "做买卖，经营"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["协议，交易"]
+        }
+      ]
+    },
+    {
+      "word": "dealer",
+      "phonetic": "[ˈdiːlə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["商人"]
+        }
+      ]
+    },
+    {
+      "word": "debate",
+      "phonetic": "[dɪˈbeɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["争论，辩论"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["争论，辩论"]
+        }
+      ]
+    },
+    {
+      "word": "decade",
+      "phonetic": "[ˈdekeɪd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["十年"]
+        }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "[dɪˈsaɪd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["决定，下决心", "解决，裁决"]
+        }
+      ]
+    },
+    {
+      "word": "decision",
+      "phonetic": "[dɪˈsɪʒn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["决定，决心", "决议，决策"]
+        }
+      ]
+    },
+    {
+      "word": "decisive",
+      "phonetic": "[dɪˈsaɪsɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["决定性的", "果断的，决断的"]
+        }
+      ]
+    },
+    {
+      "word": "decorate",
+      "phonetic": "[ˈdekəreɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["布置，装饰", "授勋"]
+        }
+      ]
+    },
+    {
+      "word": "economic",
+      "phonetic": "[ˌiːkəˈnɒmɪk; ˌekə-]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["经济（上）的", "经济学的", "有利可图的，合算的"]
+        }
+      ]
+    },
+    {
+      "word": "economical",
+      "phonetic": "[ˌiːkəˈnɒmɪkl; ˌeka-]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["节约的，节俭的，经济的", "省时间的"]
+        }
+      ]
+    },
+    {
+      "word": "economics",
+      "phonetic": "[ˌiːkəˈnɒmɪks; ˌeka-]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["经济学", "经济原则", "国家的经济状况"]
+        }
+      ]
+    },
+    {
+      "word": "economy",
+      "phonetic": "[ɪˈkonəmi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["经济"]
+        }
+      ]
+    },
+    {
+      "word": "economy",
+      "phonetic": "[ɪˈkɒnəmi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["节约，节省（金钱、时间、资源等）", "（国家的）经济管理", "经济制度"]
+        }
+      ]
+    },
+    {
+      "word": "educate",
+      "phonetic": "[ˈedʒukeɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["教育，培养，训练"]
+        }
+      ]
+    },
+    {
+      "word": "education",
+      "phonetic": "[ˌedʒuˈkeɪʃn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["教育，教育体制", "知识；修养"]
+        }
+      ]
+    },
+    {
+      "word": "effect",
+      "phonetic": "[ɪˈfekt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(on)作用，影响", "结果；效果，效力"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["产生，招致，实现"]
+        }
+      ]
+    },
+    {
+      "word": "effective",
+      "phonetic": "[ɪˈfektɪv]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["有效的，生效的，得力的"]
+        }
+      ]
+    },
+    {
+      "word": "efficient",
+      "phonetic": "[ɪˈfɪʃnt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["有效的，效率高的；能胜任的"]
+        }
+      ]
+    },
+    {
+      "word": "efficiency",
+      "phonetic": "[ɪˈfɪʃənsi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["效率，功效"]
+        }
+      ]
+    },
+    {
+      "word": "effort",
+      "phonetic": "[ˈefərt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["努力，艰难的尝试"]
+        }
+      ]
+    },
+    {
+      "word": "fabric",
+      "phonetic": "[ˈfæbrɪk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["织物；结构，组织"]
+        }
+      ]
+    },
+    {
+      "word": "fabricate",
+      "phonetic": "[ˈfæbrɪkeɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["建造，制造；捏造，编造（谎言、借口等）"]
+        }
+      ]
+    },
+    {
+      "word": "face",
+      "phonetic": "[feɪs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["脸，面貌；表情；正面，表面"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["面临；朝，面向"]
+        }
+      ]
+    },
+    {
+      "word": "facet",
+      "phonetic": "[ˈfæsit]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["部分，方面；（宝石的）琢面，刻面"]
+        }
+      ]
+    },
+    {
+      "word": "factor",
+      "phonetic": "[ˈfæktər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["因素，要素；（数）因子，因数"]
+        }
+      ]
+    },
+    {
+      "word": "fade",
+      "phonetic": "[feɪd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["(颜色)褪去；(声音等)变微弱", "(光等)变暗淡；逐渐消失"]
+        }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "[feɪl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["衰退，减弱；破产；失败，不及格"]
+        }
+      ]
+    },
+    {
+      "word": "failure",
+      "phonetic": "[ˈfeɪljər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["失败，不及格；失败者", "故障，失灵；未能"]
+        }
+      ]
+    },
+    {
+      "word": "fair",
+      "phonetic": "[feər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["公平的，合理的", "相当的，尚好的", "晴朗的；整齐的，清洁的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["集市，交易会，博览会"]
+        }
+      ]
+    },
+    {
+      "word": "fairly",
+      "phonetic": "[ˈfeəli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["公正地，诚实地；相当地"]
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "phonetic": "[fɔːl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(fell, fallen)跌倒；下降，减弱", "失势，垮台；坠落；变成，陷于"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["秋季"]
+        }
+      ]
+    },
+    {
+      "word": "fan",
+      "phonetic": "[fæn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["扇子，风扇；（影、球等）迷"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["扇，煽动，激起"]
+        }
+      ]
+    },
+    {
+      "word": "fancy",
+      "phonetic": "[ˈfænsi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["想象力；幻想，幻觉", "(尤指一时的)爱好，迷恋"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["想象，幻想"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["根据想象的，空想出来的；花式的，别致的"]
+        }
+      ]
+    },
+    {
+      "word": "fascinate",
+      "phonetic": "[ˈfæsɪneɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["强烈地吸引，迷住，使神魂颠倒"]
+        }
+      ]
+    },
+    {
+      "word": "gain",
+      "phonetic": "[ɡeɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["获得，赢得"]
+        }
+      ]
+    },
+    {
+      "word": "gain",
+      "phonetic": "[ɡeɪn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["获得，博得", "增加", "(钟、表)走快"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["获益", "增加"]
+        }
+      ]
+    },
+    {
+      "word": "gamble",
+      "phonetic": "[ˈɡæmbl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["赌博", "投机", "冒险"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["赌博", "投机", "冒险"]
+        }
+      ]
+    },
+    {
+      "word": "gap",
+      "phonetic": "[ɡæp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["间隙，缺口", "分歧，差距"]
+        }
+      ]
+    },
+    {
+      "word": "gene",
+      "phonetic": "[dʒiːn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["基因"]
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "phonetic": "[ˈdʒenrəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["一般的，普遍的", "总的，大体的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["将军"]
+        }
+      ]
+    },
+    {
+      "word": "generalize/-ise",
+      "phonetic": "[ˈdʒenrəlaɪz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["归纳，概括", "推广，普及", "使普遍化"]
+        }
+      ]
+    },
+    {
+      "word": "habit",
+      "phonetic": "[ˈhæbɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["习惯，习性，脾性"]
+        }
+      ]
+    },
+    {
+      "word": "habitat",
+      "phonetic": "[ˈhæbɪtæt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(动植物的)自然环境，栖息地"]
+        }
+      ]
+    },
+    {
+      "word": "hamper",
+      "phonetic": "[ˈhæmpər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["妨碍，阻碍", "束缚，限制，牵制"]
+        }
+      ]
+    },
+    {
+      "word": "handicap",
+      "phonetic": "[ˈhændikæp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["障碍，不利条件"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["妨碍，使不利"]
+        }
+      ]
+    },
+    {
+      "word": "shield",
+      "phonetic": "[ʃiːld]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["保护，保卫", "庇护，掩盖"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["盾，保护物，防御物"]
+        }
+      ]
+    },
+    {
+      "word": "shift",
+      "phonetic": "[ʃɪft]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["转移，移动", "替换，更换，改变"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["转移，更换，改变", "班，轮班，轮班职工"]
+        }
+      ]
+    },
+    {
+      "word": "shoulder",
+      "phonetic": "[ˈʃəʊldər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["肩膀，肩部"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["肩负，承担"]
+        }
+      ]
+    },
+    {
+      "word": "show",
+      "phonetic": "[ʃəʊ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["呈现，显示", "表明，证明"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["展览，展览会，演出"]
+        }
+      ]
+    },
+    {
+      "word": "shower",
+      "phonetic": "[ˈʃaʊər]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["阵雨，阵雨般的东西", "一大批，一大串", "淋浴，淋浴器，淋浴间"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["下阵雨", "阵雨般落下(或来到)"]
+        }
+      ]
+    }
+  ]
+}

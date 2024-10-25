@@ -1,0 +1,740 @@
+{
+  "words": [
+    {
+      "word": "acclaim",
+      "phonetic": "[okleim]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["喝彩", "欢呼", "荣誉", "高度评价"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["称赞", "赞扬"]
+        }
+      ]
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "[delt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["使适应", "使符合", "帮助", "给......提供方便", "向......提供住处", "或膳宿", "容纳", "接纳"]
+        }
+      ]
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["住宿", "留宿", "膳宿供应"]
+        }
+      ]
+    },
+    {
+      "word": "accompany",
+      "phonetic": "[panj]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["陪伴", "伴随", "为......伴奏"]
+        }
+      ]
+    },
+    {
+      "word": "accomplish",
+      "phonetic": "",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["达到(目的)", "完成(任务)", "实现(计划、诺言等)", "做到", "做成", "走完(距离等)", "度完(时间)"]
+        }
+      ]
+    },
+    {
+      "word": "account",
+      "phonetic": "[akaont]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["账", "账目", "账户", "账单", "描述", "叙述"]
+        },
+        {
+          "part_of_speech": "v",
+          "definitions": ["认为", "视为", "说明", "解释", "占(一定数量或比例)"]
+        }
+      ]
+    },
+    {
+      "word": "accountant",
+      "phonetic": "[akaontant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["会计(员)", "会计师", "账房", "出纳"]
+        }
+      ]
+    },
+    {
+      "word": "bias",
+      "phonetic": "[batas]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["偏见", "偏重"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["使有偏见", "偏向"]
+        }
+      ]
+    },
+    {
+      "word": "bid",
+      "phonetic": "[bid]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["祝愿", "命令", "吩咐", "出价", "投标"]
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "phonetic": "[bil]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["账单", "招贴", "广告", "法案", "单子", "清单", "表", "钞票"]
+        }
+      ]
+    },
+    {
+      "word": "billion",
+      "phonetic": "['biljan]",
+      "definitions_list": [
+        {
+          "part_of_speech": "num",
+          "definitions": ["十亿"]
+        }
+      ]
+    },
+    {
+      "word": "birth",
+      "phonetic": "[b3:0]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["出生"]
+        }
+      ]
+    },
+    {
+      "word": "charge",
+      "phonetic": "[tfa:d3]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["要（价）", "收（费）", "使充电", "使充满", "控告", "指控"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["负荷", "电荷", "价钱", "费用"]
+        }
+      ]
+    },
+    {
+      "word": "charm",
+      "phonetic": "[tfar m]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["(pl.)美貌", "妩媚", "魅力", "魔力"]
+        },
+        {
+          "part_of_speech": "v",
+          "definitions": ["使陶醉", "迷住", "对······施魔法"]
+        }
+      ]
+    },
+    {
+      "word": "chase",
+      "phonetic": "[tfets]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["追逐", "追求"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["追逐", "追求"]
+        }
+      ]
+    },
+    {
+      "word": "demand",
+      "phonetic": "[díma:nd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["要求", "查问"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["要求", "请求"]
+        }
+      ]
+    },
+    {
+      "word": "democracy",
+      "phonetic": "[dimokrasi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["民主", "民主制", "民主国家"]
+        }
+      ]
+    },
+    {
+      "word": "democratic",
+      "phonetic": "[demo'kraetik]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["民主的"]
+        }
+      ]
+    },
+    {
+      "word": "demographic",
+      "phonetic": "[dema graefik]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["人口统计学的", "人口统计的"]
+        }
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "phonetic": "['demonstrett]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["论证", "证明", "(用实验、实例等)说明", "教", "表明", "示范", "宣传(产品的)用法(或优点)", "游行", "示威"]
+        }
+      ]
+    },
+    {
+      "word": "denote",
+      "phonetic": "[drinout]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["表示", "是······的标志", "意思是"]
+        }
+      ]
+    },
+    {
+      "word": "denial",
+      "phonetic": "[dinatal]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["否认", "拒绝", "拒绝给予"]
+        }
+      ]
+    },
+    {
+      "word": "deny",
+      "phonetic": "[dína t]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["否定", "否认"]
+        }
+      ]
+    },
+    {
+      "word": "department",
+      "phonetic": "[dípa:tmant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["部", "局", "处", "系", "学部"]
+        }
+      ]
+    },
+    {
+      "word": "depend",
+      "phonetic": "[dipend]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vi",
+          "definitions": ["取决于", "依靠"]
+        }
+      ]
+    },
+    {
+      "word": "dependent",
+      "phonetic": "[dipendant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["依靠的", "依赖的", "取决于······的"]
+        }
+      ]
+    },
+    {
+      "word": "deposit",
+      "phonetic": "[dipozlt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["使沉积", "存放", "将(钱)存入银行", "付(保证金)"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["沉淀物", "存款", "保证金"]
+        }
+      ]
+    },
+    {
+      "word": "depress",
+      "phonetic": "[dípres]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["使沮丧", "使消沉", "使不景气", "使萧条", "按下", "压下"]
+        }
+      ]
+    },
+    {
+      "word": "emerge",
+      "phonetic": "[im3:d3]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["出现", "浮现"]
+        }
+      ]
+    },
+    {
+      "word": "emergency",
+      "phonetic": "[ima:d3ansi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["紧急情况", "突然事件", "非常时刻"]
+        }
+      ]
+    },
+    {
+      "word": "eminent",
+      "phonetic": "[emnant]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["著名的", "杰出的", "卓越的", "明显的", "突出的"]
+        }
+      ]
+    },
+    {
+      "word": "emotion",
+      "phonetic": "[rmoofn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["感情", "情感"]
+        }
+      ]
+    },
+    {
+      "word": "fear",
+      "phonetic": "[f1a(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["害怕", "畏惧"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["害怕", "担心"]
+        }
+      ]
+    },
+    {
+      "word": "fearful",
+      "phonetic": "[fiəf]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["担心的", "可怕的"]
+        }
+      ]
+    },
+    {
+      "word": "feature",
+      "phonetic": "[fiːtʃə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["特征", "特色", "特写"]
+        }
+      ]
+    },
+    {
+      "word": "federal",
+      "phonetic": "[ˈfɛd(ə)r(ə)l]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["联邦的"]
+        }
+      ]
+    },
+    {
+      "word": "federation",
+      "phonetic": "[ˌfɛd(ə)ˈreɪʃ(ə)n]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["同盟", "联邦", "联盟", "联邦政府"]
+        }
+      ]
+    },
+    {
+      "word": "feed",
+      "phonetic": "[fiːd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["喂养", "饲养", "向......提供"]
+        }
+      ]
+    },
+    {
+      "word": "feedback",
+      "phonetic": "[ˈfiːdbæk]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["反馈", "反馈的意见"]
+        }
+      ]
+    },
+    {
+      "word": "feeling",
+      "phonetic": "[ˈfiːlɪŋ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["感情", "心情", "知觉", "同情", "爱"]
+        }
+      ]
+    },
+    {
+      "word": "fertile",
+      "phonetic": "[ˈfɜːtaɪl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["肥沃的", "富饶的", "能繁殖的"]
+        }
+      ]
+    },
+    {
+      "word": "goal",
+      "phonetic": "[gəʊl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["目的", "目标", "守门员", "球门", "进球"]
+        }
+      ]
+    },
+    {
+      "word": "goods",
+      "phonetic": "[ɡʊdz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["商品", "货物", "财产"]
+        }
+      ]
+    },
+    {
+      "word": "govern",
+      "phonetic": "[ˈɡʌv(ə)rn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["统治", "管理", "决定", "支配", "抑制", "控制"]
+        }
+      ]
+    },
+    {
+      "word": "government",
+      "phonetic": "[ˈɡʌv(ə)rnmənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["政府", "内阁", "(国家等的)统治", "管理", "支配", "政治", "政体"]
+        }
+      ]
+    },
+    {
+      "word": "governor",
+      "phonetic": "[ˈɡʌv(ə)rnə(r)]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["总督", "州(省)长", "主管人员", "理事"]
+        }
+      ]
+    },
+    {
+      "word": "gradual",
+      "phonetic": "[ˈɡrædʒʊəl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["逐渐的", "逐步的"]
+        }
+      ]
+    },
+    {
+      "word": "graduate",
+      "phonetic": "[ˈɡrædʒʊeɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["(使)(大学)毕业", "获学位"]
+        },
+        {
+          "part_of_speech": "adj",
+          "definitions": ["有学位的", "毕业的", "研究生的"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["(大学)毕业生", "获(学士)学位者"]
+        }
+      ]
+    },
+    {
+      "word": "grand",
+      "phonetic": "[ɡrænd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["盛大的", "豪华的", "重大的", "主要的", "最重要的"]
+        }
+      ]
+    },
+    {
+      "word": "grant",
+      "phonetic": "[ɡrɑːnt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["同意", "准予", "授予", "给予"]
+        }
+      ]
+    },
+    {
+      "word": "heap",
+      "phonetic": "[hiːp]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["(一)堆", "大量", "许多"]
+        },
+        {
+          "part_of_speech": "vt",
+          "definitions": ["堆积", "大量地(或慷概地)给予", "装满"]
+        }
+      ]
+    },
+    {
+      "word": "heal",
+      "phonetic": "[hiːl]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["治愈", "愈合", "调停", "止息", "消除", "克服"]
+        }
+      ]
+    },
+    {
+      "word": "health",
+      "phonetic": "[helθ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["健康", "健康状况", "卫生"]
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "phonetic": "[helθi]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["健康的", "健壮的", "有益健康的", "卫生的"]
+        }
+      ]
+    },
+    {
+      "word": "hesitate",
+      "phonetic": "[heziteit]",
+      "definitions_list": [
+        {
+          "part_of_speech": "v",
+          "definitions": ["犹豫", "踌躇", "含糊", "支吾"]
+        }
+      ]
+    },
+    {
+      "word": "highlight",
+      "phonetic": "[haɪlaɪt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["使显著", "使突出", "强调", "对(某事物)予以特别的注意", "将(部分头发)染成浅色使之有光泽"]
+        },
+        {
+          "part_of_speech": "n",
+          "definitions": ["最有意思或精彩的部分"]
+        }
+      ]
+    },
+    {
+      "word": "highly",
+      "phonetic": "[haɪli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv",
+          "definitions": ["高度地", "很", "非常", "赞许地"]
+        }
+      ]
+    },
+    {
+      "word": "immediate",
+      "phonetic": "[ɪˈmiːdiət]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["立即的", "即时的", "直接的", "最接近的"]
+        }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "[ɪmens]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["广大的", "巨大的"]
+        }
+      ]
+    },
+    {
+      "word": "immerse",
+      "phonetic": "[ɪmɜːs]",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt",
+          "definitions": ["(in)使浸没", "(in)使沉浸在", "使专心于"]
+        }
+      ]
+    },
+    {
+      "word": "immigrant",
+      "phonetic": "[ˈɪmɪɡrənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["(从国外来的)移民", "侨民"]
+        }
+      ]
+    },
+    {
+      "word": "imminent",
+      "phonetic": "[ˈɪmɪnənt]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["(尤指不愉快的事)即将发生的", "临近的"]
+        }
+      ]
+    },
+    {
+      "word": "immune",
+      "phonetic": "[ɪmjuːn]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["免除的", "豁免的", "可防止的", "不受影响的", "免疫的", "有免疫力的"]
+        }
+      ]
+    },
+    {
+      "word": "likely",
+      "phonetic": "[ˈlaɪkli]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["很可能的", "有希望的"]
+        },
+        {
+          "part_of_speech": "adv",
+          "definitions": ["大概", "多半"]
+        }
+      ]
+    },
+    {
+      "word": "likelihood",
+      "phonetic": "[ˈlaɪklihʊd]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["可能性"]
+        }
+      ]
+    },
+    {
+      "word": "likewise",
+      "phonetic": "[ˈlaɪkwaɪz]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv",
+          "definitions": ["同样地", "照样地", "又", "也", "而且"]
+        }
+      ]
+    },
+    {
+      "word": "self",
+      "phonetic": "[self]",
+      "definitions_list": [
+        {
+          "part_of_speech": "n",
+          "definitions": ["个性", "自我", "本身", "自己", "(自己的)通常的行为方式", "本来面目", "惯常心态", "个人利益", "私心"]
+        }
+      ]
+    },
+    {
+      "word": "selfish",
+      "phonetic": "[ˈselfɪʃ]",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj",
+          "definitions": ["自私的", "利己的"]
+        }
+      ]
+    }
+  ]
+}

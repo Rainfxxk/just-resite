@@ -1,0 +1,730 @@
+{
+  "words": [
+    {
+      "word": "radiate",
+      "phonetic": "/ˈrdieɪt/",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["发出", "发射出（光、热等）", "发散", "显露出"]
+        }
+      ]
+    },
+    {
+      "word": "radiant",
+      "phonetic": "",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["发光的", "辐射的", "照耀的", "容光焕发的", "极漂亮的"]
+        }
+      ]
+    },
+    {
+      "word": "radical",
+      "phonetic": "/ˈrædɪkl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["根本的", "基本的", "彻底的", "激进的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["激进分子"]
+        }
+      ]
+    },
+    {
+      "word": "object",
+      "phonetic": "/ˈɒbdʒekt/ or /əbˈdʒekt/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["物体", "实物", "对象", "宾语"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["(to)反对", "不赞成"]
+        }
+      ]
+    },
+    {
+      "word": "objective",
+      "phonetic": "/əbˈdʒektɪv/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["客观的"]
+        }
+      ]
+    },
+    {
+      "word": "objection",
+      "phonetic": "/əbˈdʒekʃən/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["反对", "异议"]
+        }
+      ]
+    },
+    {
+      "word": "obligation",
+      "phonetic": "/ˌɒblɪˈɡeɪʃn/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["义务", "责任"]
+        }
+      ]
+    },
+    {
+      "word": "oblige",
+      "phonetic": "/əbˈlaɪdʒ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["强迫", "迫使", "施恩惠于", "帮助", "使感激"]
+        }
+      ]
+    },
+    {
+      "word": "obscure",
+      "phonetic": "/əbˈskjʊə(r)/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["使变暗", "遮蔽", "使变模糊", "混淆"]
+        },
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["费解的", "不分明的", "无名的"]
+        }
+      ]
+    },
+    {
+      "word": "observation",
+      "phonetic": "/ˌɒbzəˈveɪʃn/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["观察", "观测", "监视", "言论", "报告"]
+        }
+      ]
+    },
+    {
+      "word": "observe",
+      "phonetic": "/əbˈzɜːrv/",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["观察", "注意到", "遵守", "奉行（规则、法律、习俗等）", "评论", "评述"]
+        }
+      ]
+    },
+    {
+      "word": "obsession",
+      "phonetic": "/əbˈsɛʃən/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["迷住", "牵挂", "惦念", "萦绕于心的事物或人"]
+        }
+      ]
+    },
+    {
+      "word": "obsolete",
+      "phonetic": "/ˈɒbsəˌliːt/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["废弃的", "淘汰的", "过时的", "陈旧的"]
+        }
+      ]
+    },
+    {
+      "word": "obtain",
+      "phonetic": "/əbˈteɪn/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["获得", "得到", "存在", "流行", "沿袭"]
+        }
+      ]
+    },
+    {
+      "word": "obvious",
+      "phonetic": "/ˈɒbvɪəs/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["明显的", "显而易见的", "平淡无奇的", "不必要的"]
+        }
+      ]
+    },
+    {
+      "word": "ideal",
+      "phonetic": "/aɪˈdɪəl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["理想的", "完美的", "空想的", "理想主义的", "想象的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["理想"]
+        }
+      ]
+    },
+    {
+      "word": "ideology",
+      "phonetic": "/ˌaɪdiˈɒlədʒi/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["思想意识", "观念形态", "思想方式", "思想体系"]
+        }
+      ]
+    },
+    {
+      "word": "identical",
+      "phonetic": "/aɪˈdɛntɪkəl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["同一的", "完全相同的", "一模一样的"]
+        }
+      ]
+    },
+    {
+      "word": "identification",
+      "phonetic": "/aɪˌdɛntɪfɪˈkeɪʃən/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["识别", "鉴别", "确认", "身份证明"]
+        }
+      ]
+    },
+    {
+      "word": "identity",
+      "phonetic": "/aɪˈdɛntɪti/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["相同性", "一致性", "本身", "本体", "身份"]
+        }
+      ]
+    },
+    {
+      "word": "journal",
+      "phonetic": "/ˈdʒɜːnl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(尤指某学科或专业)定期刊物", "杂志，报纸，日志，日记"]
+        }
+      ]
+    },
+    {
+      "word": "journalist",
+      "phonetic": "/ˈdʒɜːrnəlɪst/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["记者", "新闻工作者"]
+        }
+      ]
+    },
+    {
+      "word": "journey",
+      "phonetic": "/ˈdʒɜːrni/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["旅行", "旅程"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["旅行"]
+        }
+      ]
+    },
+    {
+      "word": "judge",
+      "phonetic": "/dʒʌdʒ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["法官", "审判员", "裁判员", "鉴赏家"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["审判", "判决", "评定", "裁判", "断定", "判断"]
+        }
+      ]
+    },
+    {
+      "word": "judgment",
+      "phonetic": "/ˈdʒʌdʒmənt/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["审判", "判决", "判断力", "识别", "看法"]
+        }
+      ]
+    },
+    {
+      "word": "judicial",
+      "phonetic": "/dʒuˈdɪʃəl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["法庭的", "司法的", "审判的", "公正的", "明断的"]
+        }
+      ]
+    },
+    {
+      "word": "jury",
+      "phonetic": "/ˈdʒʊəri/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["陪审团", "全体陪审员", "评判委员会"]
+        }
+      ]
+    },
+    {
+      "word": "jurisdiction",
+      "phonetic": "/ˌdʒʊərɪsˈdɪkʃən/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["司法权", "审判权", "管辖权", "管辖区域", "管辖范围"]
+        }
+      ]
+    },
+    {
+      "word": "theoretical",
+      "phonetic": "/ˌθɪəˈrɛtɪkəl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["理论上的", "假设的"]
+        }
+      ]
+    },
+    {
+      "word": "justice",
+      "phonetic": "/ˈdʒʌstɪs/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["公平", "公正", "合理", "审判", "司法(制度)", "法律制裁", "法官"]
+        }
+      ]
+    },
+    {
+      "word": "justify",
+      "phonetic": "/ˈdʒʌstɪfaɪ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["证明······正当(或有理、正确)"]
+        }
+      ]
+    },
+    {
+      "word": "label",
+      "phonetic": "/ˈleɪbl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["标签", "标记", "标号"]
+        },
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["加标签于", "把······称为", "把......归类为"]
+        }
+      ]
+    },
+    {
+      "word": "lag",
+      "phonetic": "/læɡ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["走得慢", "落后", "滞留", "给(管道等)加保温层"]
+        }
+      ]
+    },
+    {
+      "word": "largely",
+      "phonetic": "/ˈlɑːdʒli/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adv.",
+          "definitions": ["大量地", "大规模地", "主要地", "基本上"]
+        }
+      ]
+    },
+    {
+      "word": "lateral",
+      "phonetic": "/ˈlætərəl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["侧面的", "旁边的", "横向的"]
+        }
+      ]
+    },
+    {
+      "word": "latter",
+      "phonetic": "/ˈlætə(r)/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["后一半的", "末了的"]
+        },
+        {
+          "part_of_speech": "pron.",
+          "definitions": ["后者"]
+        }
+      ]
+    },
+    {
+      "word": "law",
+      "phonetic": "/lɔː/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["法律", "法令", "法规", "法则", "规律", "定律"]
+        }
+      ]
+    },
+    {
+      "word": "lawsuit",
+      "phonetic": "/ˈlɔːsuːt/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["诉讼", "起诉"]
+        }
+      ]
+    },
+    {
+      "word": "magnitude",
+      "phonetic": "/ˈmæɡnɪtuːd/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["巨大", "广大", "星等", "震级", "重大", "重要性"]
+        }
+      ]
+    },
+    {
+      "word": "magnify",
+      "phonetic": "/ˈmæɡnɪfaɪ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["放大", "扩大", "夸大", "夸张"]
+        }
+      ]
+    },
+    {
+      "word": "magnificent",
+      "phonetic": "/mæɡˈnɪfɪsənt/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["壮观的", "壮丽的", "宏伟的"]
+        }
+      ]
+    },
+    {
+      "word": "maintain",
+      "phonetic": "/meɪnˈteɪn/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["维持", "保持", "维修", "保养", "赡养", "供给", "坚持", "主张"]
+        }
+      ]
+    },
+    {
+      "word": "maintenance",
+      "phonetic": "/ˈmeɪntənəns/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["维持", "保持", "维修", "保养", "生活费", "赡养费"]
+        }
+      ]
+    },
+    {
+      "word": "major",
+      "phonetic": "/ˈmeɪdʒə(r)/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["(较)大的", "(较)重要的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["专业", "主修科", "专业学生", "少校"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["主修", "专攻"]
+        }
+      ]
+    },
+    {
+      "word": "majority",
+      "phonetic": "/məˈdʒɒrəti/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["多数", "大多数", "半数以上", "票数差距", "多得的票数", "法定年龄", "成年"]
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["做", "制造", "构成", "组成", "成为", "使成为", "强迫", "迫使"]
+        }
+      ]
+    },
+    {
+      "word": "theme",
+      "phonetic": "/θiːm/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(演讲、文章或艺术作品等的)主题", "题目", "中心思想"]
+        }
+      ]
+    },
+    {
+      "word": "theory",
+      "phonetic": "/ˈθɪəri/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["理论", "原理", "学说", "见解", "看法"]
+        }
+      ]
+    },
+    {
+      "word": "therapy",
+      "phonetic": "/ˈθerəpi/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["(治)疗法", "理疗"]
+        }
+      ]
+    },
+    {
+      "word": "qualification",
+      "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["资格", "合格", "限定", "限制性条件", "合格证"]
+        }
+      ]
+    },
+    {
+      "word": "qualify",
+      "phonetic": "/ˈkwɒlɪfaɪ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["使具有资格", "证明合格", "使有权(做某事)", "限制", "限定", "修饰"]
+        }
+      ]
+    },
+    {
+      "word": "quality",
+      "phonetic": "/ˈkwɒlɪti/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["质量", "品级", "性质", "特性", "品德", "品质", "优质", "上乘"]
+        }
+      ]
+    },
+    {
+      "word": "qualitative",
+      "phonetic": "/ˈkwɒlɪtətɪv/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["性质上的", "质量的"]
+        }
+      ]
+    },
+    {
+      "word": "safeguard",
+      "phonetic": "/ˈseɪfɡɑːd/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["维护", "保护", "捍卫"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["防护措施", "安全措施"]
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "phonetic": "/ˈseɪfti/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["安全", "保险", "安全场所"]
+        }
+      ]
+    },
+    {
+      "word": "savage",
+      "phonetic": "/ˈsævɪdʒ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "adj.",
+          "definitions": ["野蛮的", "未开化的", "凶恶的", "残暴的"]
+        },
+        {
+          "part_of_speech": "n.",
+          "definitions": ["未开化的人", "野蛮人"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["猛烈抨击", "激烈批评", "(动物等)凶猛地攻击"]
+        }
+      ]
+    },
+    {
+      "word": "save",
+      "phonetic": "/seɪv/",
+      "definitions_list": [
+        {
+          "part_of_speech": "v.",
+          "definitions": ["救", "拯救", "储蓄", "贮存", "节省"]
+        }
+      ]
+    },
+    {
+      "word": "saving",
+      "phonetic": "/ˈseɪvɪŋ/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["节约", "节俭", "(pl.)储蓄"]
+        }
+      ]
+    },
+    {
+      "word": "scale",
+      "phonetic": "/skeɪl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["刻度", "标度", "天平", "磅", "规模", "程度", "范围", "比例", "比例尺"]
+        }
+      ]
+    },
+    {
+      "word": "scene",
+      "phonetic": "/siːn/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["景色", "景象", "舞台", "场", "(事件发生的)现场", "地点"]
+        }
+      ]
+    },
+    {
+      "word": "scenery",
+      "phonetic": "/ˈsiːnəri/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["风景", "舞台布景"]
+        }
+      ]
+    },
+    {
+      "word": "pace",
+      "phonetic": "/peɪs/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["步", "步速", "步伐", "速度", "节奏"]
+        },
+        {
+          "part_of_speech": "v.",
+          "definitions": ["踱方步", "踱步于"]
+        }
+      ]
+    },
+    {
+      "word": "panel",
+      "phonetic": "/ˈpænl/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["面", "板", "控制板", "仪表盘", "专门小组"]
+        }
+      ]
+    },
+    {
+      "word": "panorama",
+      "phonetic": "/ˌpænəˈrɑːmə/",
+      "definitions_list": [
+        {
+          "part_of_speech": "n.",
+          "definitions": ["全景", "全景画", "全景摄影", "概论", "概述", "概观"]
+        }
+      ]
+    },
+    {
+      "word": "prove",
+      "phonetic": "/pruːv/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["证明", "证实", "检验", "考验", "鉴定", "结果是", "表明是", "展现", "显示(自己的才能)"]
+        }
+      ]
+    },
+    {
+      "word": "provide",
+      "phonetic": "/prəˈvaɪd/",
+      "definitions_list": [
+        {
+          "part_of_speech": "vt.",
+          "definitions": ["提供", "供给", "给予"]
+        }
+      ]
+    },
+    {
+      "word": "provided",
+      "phonetic": "/prəˈvaɪdɪd/",
+      "definitions_list": [
+        {
+          "part_of_speech": "conj.",
+          "definitions": ["倘若", "只要", "假如", "在...条件下"]
+        }
+      ]
+    }
+  ]
+}
